@@ -4,6 +4,8 @@ I intend to store here a hosts file I made for blocking porn that can be applied
 
 Install instructions are available below.
 
+(PD: A little bit of info: I do this for myself mainly, to deal with a slight porn addiction, but I realize it could be usefull for other people in the same situation, or maybe parents that don't want their children to see all of this things. Whathever the situation is, you may like to check this site as well: https://www.reddit.com/r/NoFap/)
+
 # How-To-Host
 
 Android
