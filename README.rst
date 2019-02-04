@@ -12,10 +12,12 @@ How-To-Host
 -----------------------
 - On Android an app like `AdAway
   <https://forum.xda-developers.com/showthread.php?t=2190753>`_ or `PornAway
-  <https://forum.xda-developers.com/android/apps-games/root-pornaway-block-porn-sites-t3460036>`_ is needed, and then you gotta add `this
+  <https://forum.xda-developers.com/android/apps-games/root-pornaway-block-porn-sites-t3460036>`_ is needed, and then you have to add `this
   <https://raw.githubusercontent.com/foopsss/hosts/master/hosts-porn>`_ URL as a hosts file source.
    - You may also go with a file browser to "system/etc" and search for the hosts file there and edit it manually, adding the content of the file saved here in your own one. Do not forget to give the file with rw-r-r (644) permissions.
-- On Windows, 
+- On Windows, you have to edit the file (located in *c:\Windows\System32\Drivers\etc\*) with Notepad oy any other text editor as an administrator and paste the content of the `"hosts-porn"
+  <https://github.com/foopsss/hosts/blob/master/hosts-porn>`_ file there.
+   - If you aren't allowed to save the file you may first have to copy it to your desktop and edit it there and then move it back to the *etc* folder.
    
 Other useful links
 -----------------------
