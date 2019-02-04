@@ -43,13 +43,11 @@ solution optimized for NVIDIA GPUs. The server provides an inference
 service via an HTTP or gRPC endpoint, allowing remote clients to
 request inferencing for any model being managed by the server. The
 inference server provides the following features:
-
-*On Android you must have an app like `AdAway
-  <https://forum.xda-developers.com/showthread.php?t=2190753>`_. or `PornAway
+`PornAway
   <https://forum.xda-developers.com/android/apps-games/root-pornaway-block-porn-sites-t3460036>`_.
 
-* `Multiple framework support
-  <https://docs.nvidia.com/deeplearning/sdk/tensorrt-inference-server-master-branch-guide/docs/model_repository.html#framework-model-definition>`_. The
+* On Android an app like `AdAway
+  <https://forum.xda-developers.com/showthread.php?t=2190753>`_ is needed. The
   server can manage any number and mix of models (limited by system
   disk and memory resources). Supports TensorRT, TensorFlow GraphDef,
   TensorFlow SavedModel and Caffe2 NetDef model formats. Also supports
