@@ -30,11 +30,7 @@
 NVIDIA TensorRT Inference Server
 ================================
 
-    **NOTE: You are currently on the master branch which tracks
-    under-development progress towards the next release. The latest
-    release of the TensorRT Inference Server is 0.10.0 beta and is
-    available on branch** `r19.01
-    <https://github.com/NVIDIA/tensorrt-inference-server/tree/r19.01>`_.
+    **A little bit of info: I do this for myself mainly to deal with a slight porn addiction, but I realize it could be usefull for other people in the same situation, or maybe parents that don't want their children to see all of these things**.
 
 .. overview-begin-marker-do-not-remove
 
