@@ -1,7 +1,7 @@
 I intend to store here a hosts file I made for blocking porn that can be applied on Android apps like AdAway or PornAway. It can also be used on Windows, and maybe in other OS like Ubuntu or MacOS. I may also fork some other hosts files and keep them here or maybe mix them in a single file.
 
-**A little bit of info: I do this for myself mainly to deal with a slight porn addiction, but I realize it could be usefull for other people in the same situation, or maybe parents that don't want their children to see all of these things.**
- 
+    **A little bit of info: I do this for myself mainly to deal with a slight porn addiction, but I realize it could be usefull for other people in the same situation, or maybe parents that don't want their children to see all of these things.**
+    
 # How-To-Host
 
 Android
