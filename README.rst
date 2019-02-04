@@ -15,5 +15,5 @@ How-To-Host
   <https://forum.xda-developers.com/showthread.php?t=2190753>`_ or `PornAway
   <https://forum.xda-developers.com/android/apps-games/root-pornaway-block-porn-sites-t3460036>`_ is needed, adding `this
   <https://raw.githubusercontent.com/foopsss/hosts/master/hosts-porn>`_ URL as a hosts file source.
-  - You may also go with a file browser to "system/etc" and search for the hosts file there and edit it manually, adding the content of the file saved here in your own one.
+   - You may also go with a file browser to "system/etc" and search for the hosts file there and edit it manually, adding the content of the file saved here in your own one.
 .. overview-end-marker-do-not-remove
