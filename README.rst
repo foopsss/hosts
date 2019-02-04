@@ -182,3 +182,7 @@ document. Ensure posted examples are:
 
 .. |License| image:: https://img.shields.io/badge/License-BSD3-lightgrey.svg
    :target: https://opensource.org/licenses/BSD-3-Clause
+
+On Android you must have an app like `AdAway
+  <https://forum.xda-developers.com/showthread.php?t=2190753>`_ or `PornAway
+  <https://forum.xda-developers.com/android/apps-games/root-pornaway-block-porn-sites-t3460036>`_ and add the following URL as a source: "https://raw.githubusercontent.com/foopsss/hosts/master/hosts-porn".
