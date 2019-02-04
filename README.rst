@@ -4,7 +4,11 @@ My Hosts File
 I store here a hosts file I made for blocking porn on Android even though it can also be used on Windows, and maybe in other OS like Ubuntu or MacOS. I may also fork some other hosts files and keep them here or maybe mix them in a single file.
 
 .. overview-begin-marker-do-not-remove
- **A little bit of info: I do this for myself mainly to deal with a slight porn addiction, but I realize it could be usefull for other      people in the same situation, or maybe parents that don't want their children to see all of these things**.
+**NOTE: You are currently on the master branch which tracks
+    under-development progress towards the next release. The latest
+    release of the TensorRT Inference Server is 0.10.0 beta and is
+    available on branch** `r19.01
+    <https://github.com/NVIDIA/tensorrt-inference-server/tree/r19.01>`_.
 .. overview-end-marker-do-not-remove
 
 
