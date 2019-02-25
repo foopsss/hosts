@@ -2,6 +2,7 @@
 #As far as I'm concerned, they have a Creative Commons license for non-commercial use.
 #The host sources is as follows:
 #http://sysctl.org/cameleon/hosts
+#https://sites.google.com/site/logroid/files/hosts.txt?attredirects=0
 
 127.0.0.1  localhost
 ::1  localhost
