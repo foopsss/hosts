@@ -1,8 +1,7 @@
-#This one is made to gather a lot of URLs from some hosts files that can be downloaded from the Internet, but can not be directly applied on AdAway.
-#As far as I'm concerned, they have a Creative Commons license for non-commercial use.
-#The host sources is as follows:
+#This one is made to gather a lot of URLs from a hosts file that can be downloaded from the Internet, but can not be directly applied on AdAway.
+#As far as I'm concerned, it has a Creative Commons license for non-commercial use.
+#The host source is as follows:
 #http://sysctl.org/cameleon/hosts
-#https://sites.google.com/site/logroid/files/hosts.txt?attredirects=0
 
 127.0.0.1  localhost
 ::1  localhost
