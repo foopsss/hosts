@@ -24,3 +24,5 @@ Other useful links
 -----------------------
 - `PornAway hosts sources
   <https://github.com/mhxion/pornaway/tree/master/hosts>`_.
+- `Airelle's hosts file
+  <http://rlwpx.free.fr/WPFF/hsex.7z>`_, that blocks 481.166 sites that may have adult content (WARNING: it's a direct download for a 7-Zip file).
