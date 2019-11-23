@@ -24,7 +24,7 @@ Branches
 --------
 I keep a few branches on this project for the sake of being organized:
 
-- **master**: this is the one you'll probably care the most for. It has the most publicly released up to date version.
+- **master**: this is the one you'll probably care the most for since it's the one instructions tell you to download. It has the most publicly released up to date version.
 - **third**: do not ask for its name, but it's used for me to add new sites to the file, followed by a pull request to update the file found in master.
 - **backup**: as the name says, it's just a copy of the up to date main master branch if it gets ruined by mistake.
    
