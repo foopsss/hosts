@@ -1,7 +1,7 @@
 My Hosts File
 =============
 
-I store here a hosts file I made for blocking porn on Android even though it can also be used on Windows, and maybe in other OS like Ubuntu or MacOS. 
+I store here a hosts file I made for blocking porn on Android even though it can also be used on Windows, and maybe in other OSs like Ubuntu or MacOS. 
 
     **A little bit of info: I did this for myself mainly to deal with a slight
     porn addiction, but I realize it can also be useful for someone else
