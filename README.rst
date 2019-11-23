@@ -9,7 +9,7 @@ I store here a hosts file I made for blocking porn on Android even though it can
 
 How-To-Host
 -----------------------
-- On Android an app like `AdAway
+- On **Android** an app like `AdAway
   <https://forum.xda-developers.com/showthread.php?t=2190753>`_ (root), `PornAway
   <https://forum.xda-developers.com/android/apps-games/root-pornaway-block-porn-sites-t3460036>`_ (root) or `Blokada
   <https://github.com/blokadaorg/blokada>`_ is needed. Then, `this
@@ -17,7 +17,7 @@ How-To-Host
   <https://raw.githubusercontent.com/foopsss/hosts/master/hosts-misc>`_ which blocks some miscellaneous sites.
    - Going to "system/etc" and searching for the hosts file there to add the content of the one saved here is also possible. It just has to have rw-r-r (644) permissions.
    - **Another important note**: as of Android 10 editing the system partition is not allowed and therefore, the only way to apply the file is to use the Systemless Hosts Module from Magisk which will allow anyone to use a custom hosts file from AdAway or PornAway.
-- On Windows, editing it as an administrator and pasting the content of `"hosts-porn"
+- On **Windows**, editing it as an administrator and pasting the content of `"hosts-porn"
   <https://github.com/foopsss/hosts/blob/master/hosts-porn>`_ there works. The file is located in *c:/Windows/System32/Drivers/etc/hosts*
    - Moving it to the desktop and then editing its content may be necessary if unable to edit it from C drive.
       
