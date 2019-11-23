@@ -18,7 +18,15 @@ How-To-Host
    - You may also go to "system/etc" and search for the hosts file there to add the content of the one saved here. Do not forget to give it rw-r-r (644) permissions.
 - On Windows, you have to edit it (located in *c:/Windows/System32/Drivers/etc/hosts*) with Notepad or any other text editor as an administrator and paste the content of `"hosts-porn"
   <https://github.com/foopsss/hosts/blob/master/hosts-porn>`_ there.
-   - Moving the file to the desktop and then editing it may be necessary, if unable to edit it from C:.
+   - Moving the file to the desktop and then editing it may be necessary, if unable to edit it from C drive.
+      
+Branches
+--------
+I keep a few branches on this project for the sake of being organized:
+
+- **master**: this is the one you'll probably care the most for. It has the most publicly released up to date version.
+- **third**: do not ask for its name, but it's used for me to add new sites to the file, followed by a pull request to update the file found in master.
+- **backup**: as the name says, it's just a copy of the up to date main master branch if it gets ruined by mistake.
    
 Other useful links
 -----------------------
