@@ -14,11 +14,12 @@ How-To-Host
   <https://forum.xda-developers.com/android/apps-games/root-pornaway-block-porn-sites-t3460036>`_ or `Blokada
   <https://github.com/blokadaorg/blokada>`_ is needed. Then, you have to add `this
   <https://raw.githubusercontent.com/foopsss/hosts/master/hosts-porn>`_ URL as a hosts file source. You can also try `this list
-  <https://raw.githubusercontent.com/foopsss/hosts/master/hosts-misc>`_ which blocks some miscellaneous sites I want it to.
+  <https://raw.githubusercontent.com/foopsss/hosts/master/hosts-misc>`_ which blocks some miscellaneous sites.
    - You may also go to "system/etc" and search for the hosts file there to add the content of the one saved here. Do not forget to give it rw-r-r (644) permissions.
+   - **Another important note**: as of Android 10 editing the system partition is not allowed and therefore, the only way to apply the file is to use the Systemless Hosts Module from Magisk which will allow you to use a custom hosts file from AdAway or PornAway.
 - On Windows, you have to edit it (located in *c:/Windows/System32/Drivers/etc/hosts*) with Notepad or any other text editor as an administrator and paste the content of `"hosts-porn"
   <https://github.com/foopsss/hosts/blob/master/hosts-porn>`_ there.
-   - Moving the file to the desktop and then editing it may be necessary, if unable to edit it from C drive.
+   - Moving the file to the desktop and then editing it may be necessary if unable to edit it from C drive.
       
 Branches
 --------
