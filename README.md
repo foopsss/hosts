@@ -27,7 +27,7 @@ Terminal session using "*sudo -name of the text editor chosen- /etc/hosts*".
   * Editing the file located in *system* and directly pasting everything there. It can also be taken outside the device and edited in a computer, just take in mind that when it's put back into system it has to have rw-r-r (644) permissions.
   * Through [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445): I've made a module that places a new up-to-date hosts file inside system. It just requires flashing it through the "Modules" tab.
   
-**An important note**: On Android 10 the system partition cannot be modified so a Magisk module is required to make AdAway and PornAway work systemlessly which can be obtained from Magisk settings. Or, my own module can be installed as a replacement.
+**An important note**: On Android 10 the system partition cannot be modified so a Magisk module is required to make AdAway and PornAway work systemlessly which can be obtained from Magisk settings, under the "Systemless Hosts" option. Or, my own module can be installed as a replacement.
 
 # Other useful links
 * [PornAway's hosts sources](https://github.com/mhxion/pornaway/tree/master/hosts).
