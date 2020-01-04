@@ -9,7 +9,7 @@ I store here a hosts file I made for blocking porn sites. It can be used on Wind
 # Installation
 
 ## Desktop Operative Systems
-For these OSs is recommended to open the already existing file and just add the contents of "hosts-porn" there.
+For these OSs is recommended to open the already existing file and just add the contents of "[hosts-porn](https://raw.githubusercontent.com/foopsss/hosts/master/hosts-porn)" there.
 * **Windows**: the file is located in *C:\Windows\System32\drivers\etc\hosts* and it can be directly opened with Notepad or Wordpad to 
 be modified. It can also be opened with the "Execute" function using this command: "*notepad c:\windows\system32\drivers\etc\hosts*"
 (or "*wordpad c:\windows\system32\drivers\etc\hosts*" alternatively).
@@ -23,7 +23,14 @@ Terminal session using "*sudo -name of the text editor chosen- /etc/hosts*".
   
 ## Mobile Operative Systems
 * **Android**: similarly to the last two OSs, the file is located in *system/etc* and can be modified in a series of ways:
+  * Using an app like [AdAway](https://forum.xda-developers.com/showthread.php?t=2190753) (root), [PornAway](https://forum.xda-developers.com/android/apps-games/root-pornaway-block-porn-sites-t3460036) (root) or [Blokada](https://github.com/blokadaorg/blokada) with [hosts-porn](https://raw.githubusercontent.com/foopsss/hosts/master/hosts-porn) as a hosts source. 
+  * Editing the file located in *system* and directly pasting everything there. It can also be taken outside the device and edited in a computer, just take in mind that when it's put back into system it has to have rw-r-r (644) permissions.
+  * Through [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445): I've made a module that places a new up-to-date hosts file inside system. It just requires flashing it through the "Modules" tab.
 
 # Other useful links
-* **TBA**
+* [PornAway's hosts sources](https://github.com/mhxion/pornaway/tree/master/hosts).
+* [Airelle's hosts file](http://rlwpx.free.fr/WPFF/hsex.7z), that blocks 481.166 sites which may have adult content (WARNING: it's a direct download for a 7-Zip file).
 
+# Some due credits
+* PerfectSlayer for his AdAway app, that thuaght me how a hosts file works.
+* Christopher Welker, because I've copied some of the instructions listed on his "[How to Edit Your Hosts File on Windows, Mac, or Linux](https://www.howtogeek.com/howto/27350/beginner-geek-how-to-edit-your-hosts-file/)" article.
