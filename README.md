@@ -13,7 +13,7 @@ For these OSs is recommended to open the already existing file and just add the 
 * **Windows**: the file is located in *C:\Windows\System32\drivers\etc\hosts* and it can be directly opened with Notepad or Wordpad to 
 be modified. It can also be opened with the "Execute" function using this command: "*notepad c:\windows\system32\drivers\etc\hosts*"
 (or "*wordpad c:\windows\system32\drivers\etc\hosts*" alternatively).
-* **Linux**: the file is located in the */etc/* folder and it can be opened using any text editor through a Terminal session
+* **Linux**: the file is located in the */etc/* folder and it can be opened with any text editor through a Terminal session
 using the command "*sudo -name of the editor- /etc/hosts*". 
 Please note that it requires root privileges do to it being in the root of the drive.
   * For example, if I were to use the built-in Nano text editor I would put *sudo nano /etc/hosts*.
