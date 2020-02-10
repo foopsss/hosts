@@ -34,5 +34,5 @@ Terminal session using "*sudo -name of the text editor chosen- /etc/hosts*".
 * [Airelle's hosts file](http://rlwpx.free.fr/WPFF/hsex.7z), that blocks 481.166 sites which may have adult content (WARNING: it's a direct download for a 7-Zip file).
 
 # Some due credits
-* PerfectSlayer for his AdAway app, that thuaght me how a hosts file works.
+* PerfectSlayer for his AdAway app, that thaught me how a hosts file works.
 * Christopher Welker, because I've copied some of the instructions listed on his "[How to Edit Your Hosts File on Windows, Mac, or Linux](https://www.howtogeek.com/howto/27350/beginner-geek-how-to-edit-your-hosts-file/)" article.
