@@ -1,7 +1,7 @@
 id=hporn
 name=Hosts-Porn
-version=v1.2
+version=v1.0
 versionCode=1
 author=Lucas
-description=Adds a custom hosts file which blocks over a thousand porn sites.
+description=Adds a custom hosts file which blocks over two thousand porn sites.
 minMagisk=18000
