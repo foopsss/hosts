@@ -1,0 +1,17 @@
+#Made to block some miscellaneous sites I want to.
+
+127.0.0.1  localhost
+::1  localhost
+
+127.0.0.1 https://www.apkmonk.com/app/mark.via.gp/
+127.0.0.1 https://rawapk.com/via-browser-apk-download/
+127.0.0.1 https://via-browser-fast-and-light-geek-best-choice.uptodown.com/android
+127.0.0.1 https://apkpure.com/via-browser-fast-light-geek-best-choice/mark.via.gp
+127.0.0.1 https://play.google.com/store/apps/details?id=mark.via.gp&hl=es_AR
+127.0.0.1 *.360safe.com
+127.0.0.1 *.cloud.360safe.com
+127.0.0.1 *.360.cn
+127.0.0.1 360.cn
+127.0.0.1 360safe.com
+127.0.0.1 samcmsec.ksmobile.com
+127.0.0.1 samcm.ksmobile.com
