@@ -15,9 +15,7 @@
 # [File-Hosting Sites]
 # [File Downloading Sites]
 # [Torrent Sites]
-# [Subreddits]
 # [Sex Stories Websites]
-# [Boards]
 # [Porn Search Engines]
 # [Pornstar Databases]
 # [Escort Sites]
@@ -1182,70 +1180,11 @@
 127.0.0.1 www.discountporn.club
 
 # [Forums]
-127.0.0.1 www.phun.org
-127.0.0.1 www.kikdirty.com
-127.0.0.1 www.intporn.com/forums/
-127.0.0.1 www.pornbb.org/forum
-
-# [Gallery Sites]
-127.0.0.1 www.erocurves.com
-127.0.0.1 www.cherrynudes.com
-127.0.0.1 www.girlznation.com
-127.0.0.1 www.88gals.com
-127.0.0.1 www.nudems.com
-127.0.0.1 www.dirtynakedpics.com
-127.0.0.1 www.bunnylust.com
-127.0.0.1 www.shegg.com
-127.0.0.1 www.mypornstarbook.net
-127.0.0.1 www.lemmecheck.com
-
-# [Blogs]
-127.0.0.1 www.pornmode.com
-127.0.0.1 www.erohut.com
-127.0.0.1 www.candy.porn
-127.0.0.1 www.boobieblog.com
-127.0.0.1 www.blog.pinkworld.com
-127.0.0.1 www.mybigtitsbabes.com
-127.0.0.1 www.thelittleslush.com
-127.0.0.1 www.blog.mrpinks.com
-127.0.0.1 www.xmilfporn.com
-127.0.0.1 www.bootysource.com
-127.0.0.1 www.interracialfuckfan.com
-127.0.0.1 www.analpornfan.com
-127.0.0.1 www.boobsrealm.com
-127.0.0.1 www.redbled.com
-127.0.0.1 www.blogvporn.com
-127.0.0.1 www.ifl-porn.com
-127.0.0.1 www.femdomdestiny.com
-127.0.0.1 www.xartfan.com
-127.0.0.1 www.purelyceleb.com
-
-# [File Hosting Sites]
-127.0.0.1 www.openload.co
-127.0.0.1 www.videowood.tv
-127.0.0.1 www.bitporno.com
-127.0.0.1 www.pornhost.com
-
-# [File Downloading Sites]
-127.0.0.1 www.boolwowgirls.com
-127.0.0.1 www.camshowhub.to
-127.0.0.1 www.fetish-island.com
-
-# [Torrent Sites]
-127.0.0.1 www.rarbg.to/torrents.php?category=4
-127.0.0.1 www.thepiratebay.org/browse/500
-127.0.0.1 www.pornleech.is
-127.0.0.1 www.pornbay.org
-127.0.0.1 www.pornolab.net
-127.0.0.1 www.onejav.com
-127.0.0.1 www.javjunkies.com
-127.0.0.1 www.tokyotosho.info
-127.0.0.1 www.1337x.to
-127.0.0.1 www.myporn.club
-127.0.0.1 www.xxx.bootytape.com
-127.0.0.1 www.empornium.me
-
-# [Subreddits]
+# Includes sites like 4Chan, Reddit and some other porn forums out there.
+127.0.0.1 http://www.phun.org/
+127.0.0.1 https://kikdirty.com/
+127.0.0.1 https://www.intporn.com/forums/
+127.0.0.1 http://www.pornbb.org/forum
 127.0.0.1 https://www.redditlist.com
 127.0.0.1 https://www.reddit.com/r/gonewild
 127.0.0.1 https://www.reddit.com/r/nsfw
@@ -1383,6 +1322,74 @@
 127.0.0.1 https://www.reddit.com/r/Hotwife/
 127.0.0.1 https://www.reddit.com/r/OkCupid/
 127.0.0.1 https://www.reddit.com/r/felching/
+127.0.0.1 https://www.4chan.org/
+127.0.0.1 https://www.u18chan.com/
+127.0.0.1 https://420chan.org/
+127.0.0.1 https://bbw-chan.nl/
+127.0.0.1 https://8kun.top/index.html
+127.0.0.1 http://7chan.org/
+127.0.0.1 https://pregchan.com/
+127.0.0.1 https://www.archiveofsins.com/
+127.0.0.1 https://www.ichan.net/
+127.0.0.1 https://www.thebarchive.com/
+
+# [Gallery Sites]
+127.0.0.1 www.erocurves.com
+127.0.0.1 www.cherrynudes.com
+127.0.0.1 www.girlznation.com
+127.0.0.1 www.88gals.com
+127.0.0.1 www.nudems.com
+127.0.0.1 www.dirtynakedpics.com
+127.0.0.1 www.bunnylust.com
+127.0.0.1 www.shegg.com
+127.0.0.1 www.mypornstarbook.net
+127.0.0.1 www.lemmecheck.com
+
+# [Blogs]
+127.0.0.1 www.pornmode.com
+127.0.0.1 www.erohut.com
+127.0.0.1 www.candy.porn
+127.0.0.1 www.boobieblog.com
+127.0.0.1 www.blog.pinkworld.com
+127.0.0.1 www.mybigtitsbabes.com
+127.0.0.1 www.thelittleslush.com
+127.0.0.1 www.blog.mrpinks.com
+127.0.0.1 www.xmilfporn.com
+127.0.0.1 www.bootysource.com
+127.0.0.1 www.interracialfuckfan.com
+127.0.0.1 www.analpornfan.com
+127.0.0.1 www.boobsrealm.com
+127.0.0.1 www.redbled.com
+127.0.0.1 www.blogvporn.com
+127.0.0.1 www.ifl-porn.com
+127.0.0.1 www.femdomdestiny.com
+127.0.0.1 www.xartfan.com
+127.0.0.1 www.purelyceleb.com
+
+# [File Hosting Sites]
+127.0.0.1 www.openload.co
+127.0.0.1 www.videowood.tv
+127.0.0.1 www.bitporno.com
+127.0.0.1 www.pornhost.com
+
+# [File Downloading Sites]
+127.0.0.1 www.boolwowgirls.com
+127.0.0.1 www.camshowhub.to
+127.0.0.1 www.fetish-island.com
+
+# [Torrent Sites]
+127.0.0.1 www.rarbg.to/torrents.php?category=4
+127.0.0.1 www.thepiratebay.org/browse/500
+127.0.0.1 www.pornleech.is
+127.0.0.1 www.pornbay.org
+127.0.0.1 www.pornolab.net
+127.0.0.1 www.onejav.com
+127.0.0.1 www.javjunkies.com
+127.0.0.1 www.tokyotosho.info
+127.0.0.1 www.1337x.to
+127.0.0.1 www.myporn.club
+127.0.0.1 www.xxx.bootytape.com
+127.0.0.1 www.empornium.me
 
 # [Sex Stories Websites]
 127.0.0.1 https://www.indiansexstories2.net/
@@ -1401,19 +1408,6 @@
 127.0.0.1 https://marriageheat.com/
 127.0.0.1 https://xhamster.com/stories
 127.0.0.1 https://omgkinky.com/
-
-# [Boards]
-127.0.0.1 www.4chan.org
-127.0.0.1 www.u18chan.com
-127.0.0.1 www.anonsharer.org
-127.0.0.1 www.420chan.org
-127.0.0.1 www.bbw-chan.nl
-127.0.0.1 www.8ch.net
-127.0.0.1 www.7chan.org
-127.0.0.1 www.pregchan.com
-127.0.0.1 www.archiveofsins.com
-127.0.0.1 www.ichan.net
-127.0.0.1 www.thebarchive.com
 
 # [Porn Search Engines] (yes, this kind of thing exists)
 127.0.0.1 www.pornmd.com
