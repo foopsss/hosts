@@ -4,29 +4,27 @@
 # which sites can be added.
 
 # Categories listed on the filter by order:
-# [Porn Site Databases]
-# [Alternative access URLs]
+# [Porn Databases/Discount & Review Sites]
+# [Porn Search Engines/Pornstar Databases]
 # [Common Sites]
-# [Porn Discount & Review Sites]
+# [Some diverse shady websites]
+# [Live Webcams/Chat]
+# [Sex Stories Websites]
+# [Alternative access URLs]
+# [Porn Games Sites]
+# [Wikimedia-hosted content]
+# [Instagram erotic art/stuff accounts]
 # [Forums]
 # [Gallery Sites]
 # [Blogs]
 # [File Hosting and Downloading Sites]
-# [Live Webcams/Chat]
-# [Sex Stories Websites]
-# [Porn Search Engines]
-# [Pornstar Databases]
-# [Escort/Company Sites]
-# [Online Sex Shops]
-# [Some diverse shady websites]
-# [Wikimedia-hosted content]
-# [Porn Games Sites]
-# [Instagram erotic art/stuff accounts]
+# [Escort/Company Sites and Sex Shops]
 
 127.0.0.1  localhost
 ::1  localhost
 
-# [Porn Site Databases] (this is where you would go if you look for a list of them)
+# [Porn Databases/Discount & Review Sites]
+# This is where you would go if you look for a list of sites.
 127.0.0.1 https://porndabster.com/
 127.0.0.1 https://collectionofbestporn.com/
 127.0.0.1 https://theporndude.com/
@@ -58,40 +56,47 @@
 127.0.0.1 https://toppornsites.net/
 127.0.0.1 https://toppornguide.com/
 127.0.0.1 https://www.pornsitesnow.com/
+127.0.0.1 https://reviewedporn.com/
+127.0.0.1 https://www.bestpornreviews.net/
+127.0.0.1 https://www.discountedporn.com/
+127.0.0.1 https://x3guide.com/
+127.0.0.1 http://www.myporndiscount.com/
+127.0.0.1 https://thelordofporn.com/
+127.0.0.1 https://www.rabbitsreviews.com/
+127.0.0.1 https://www.mypornopinion.com/
+127.0.0.1 https://www.pornographyreviews.com/
+127.0.0.1 https://www.mrpinks.com/
+127.0.0.1 https://www.discountporn.club/
+127.0.0.1 https://mypornadviser.com/
 
-# [Alternative access URLs]
-# Includes the localized versions of sites like PornHub and Spankbang. Also some alternative PornHub URLs.
-127.0.0.1 www.pornjub.com
-127.0.0.1 www.pornhab.com
-127.0.0.1 www.pornhub.net
-127.0.0.1 https://es.pornhub.com
-127.0.0.1 https://de.pornhub.com
-127.0.0.1 https://fr.pornhub.com
-127.0.0.1 https://it.pornhub.com
-127.0.0.1 https://pt.pornhub.com
-127.0.0.1 https://pl.pornhub.com
-127.0.0.1 https://rt.pornhub.com
-127.0.0.1 https://jp.pornhub.com
-127.0.0.1 https://nl.pornhub.com
-127.0.0.1 https://cz.pornhub.com
-127.0.0.1 https://cn.pornhub.com
-127.0.0.1 https://br.spankbang.com/
-127.0.0.1 https://de.spankbang.com/
-127.0.0.1 https://tr.spankbang.com/
-127.0.0.1 https://jp.spankbang.com/
-127.0.0.1 https://th.spankbang.com/
-127.0.0.1 https://la.spankbang.com/
-127.0.0.1 https://pt.spankbang.com/
-127.0.0.1 https://nl.spankbang.com/
-127.0.0.1 https://it.spankbang.com/
-127.0.0.1 https://se.spankbang.com/
-127.0.0.1 https://ms.spankbang.com/
-127.0.0.1 https://es.spankbang.com/
-127.0.0.1 https://fr.spankbang.com/
-127.0.0.1 https://pl.spankbang.com/
-127.0.0.1 https://ru.spankbang.com/
-127.0.0.1 https://in.spankbang.com/
-127.0.0.1 https://id.spankbang.com/
+# [Porn Search Engines/Pornstar Databases]
+127.0.0.1 www.pornmd.com
+127.0.0.1 www.nudevista.com
+127.0.0.1 www.findtubes.com
+127.0.0.1 www.rexxx.org
+127.0.0.1 www.namethatporn.com
+127.0.0.1 www.namethatpornstar.com
+127.0.0.1 www.porndex.com
+127.0.0.1 www.ro89.com
+127.0.0.1 www.pornstarbyface.com
+127.0.0.1 www.badjojo.com
+127.0.0.1 www.boodigo.com
+127.0.0.1 www.iafd.com
+127.0.0.1 www.freeones.com
+127.0.0.1 www.javlibrary.com
+127.0.0.1 www.boobpedia.com
+127.0.0.1 www.definebabe.com
+127.0.0.1 www.pornteengirl.com
+127.0.0.1 www.shemalestardb.com
+127.0.0.1 www.adultfilmdatabase.com
+127.0.0.1 www.babepedia.com
+127.0.0.1 www.europornstar.com
+127.0.0.1 www.babesandstars.com
+127.0.0.1 www.dbnaked.com
+127.0.0.1 www.mypornstarbook.net
+127.0.0.1 www.definefetish.com
+127.0.0.1 www.fancentro.com
+127.0.0.1 www.porn-star.com
 
 # [Common Sites]
 127.0.0.1 https://www.playboy.com/
@@ -1178,322 +1183,8 @@
 127.0.0.1 https://gigaporn.xxx/
 127.0.0.1 https://milf.com/
 
-# [Porn Discount & Review Sites]
-127.0.0.1 https://reviewedporn.com/
-127.0.0.1 https://www.bestpornreviews.net/
-127.0.0.1 https://www.discountedporn.com/
-127.0.0.1 https://x3guide.com/
-127.0.0.1 http://www.myporndiscount.com/
-127.0.0.1 https://thelordofporn.com/
-127.0.0.1 https://www.rabbitsreviews.com/
-127.0.0.1 https://www.mypornopinion.com/
-127.0.0.1 https://www.pornographyreviews.com/
-127.0.0.1 https://www.mrpinks.com/
-127.0.0.1 https://www.discountporn.club/
-127.0.0.1 https://mypornadviser.com/
-
-# [Forums]
-# Includes sites like 4Chan, Reddit and some other porn forums out there.
-127.0.0.1 http://www.phun.org/
-127.0.0.1 https://kikdirty.com/
-127.0.0.1 https://www.intporn.com/forums/
-127.0.0.1 http://www.pornbb.org/forum
-127.0.0.1 https://www.redditlist.com
-127.0.0.1 https://www.reddit.com/r/gonewild
-127.0.0.1 https://www.reddit.com/r/nsfw
-127.0.0.1 https://www.reddit.com/r/nsfw_wtf
-127.0.0.1 https://www.reddit.com/r/grool
-127.0.0.1 https://www.reddit.com/r/NSFW_GIF
-127.0.0.1 https://www.reddit.com/r/RealGirls
-127.0.0.1 https://www.reddit.com/r/nsfw_gifs
-127.0.0.1 https://www.reddit.com/r/BustyPetite
-127.0.0.1 https://www.reddit.com/r/Amateur
-127.0.0.1 https://www.reddit.com/r/Boobies
-127.0.0.1 https://www.reddit.com/r/ass
-127.0.0.1 https://www.reddit.com/r/cumsluts
-127.0.0.1 https://www.reddit.com/r/OnOff
-127.0.0.1 https://www.reddit.com/r/LegalTeens
-127.0.0.1 https://www.reddit.com/r/GirlsFinishingTheJob
-127.0.0.1 https://www.reddit.com/r/girlsinyogapants
-127.0.0.1 https://www.reddit.com/r/rule34
-127.0.0.1 https://www.reddit.com/r/ginger
-127.0.0.1 https://www.reddit.com/r/GodPussy
-127.0.0.1 https://www.reddit.com/r/BBCSluts
-127.0.0.1 https://www.reddit.com/r/BDSMGW
-127.0.0.1 https://www.reddit.com/r/GirlswithNeonHair
-127.0.0.1 https://www.reddit.com/r/WomenOfColor
-127.0.0.1 https://www.reddit.com/r/workgonewild/
-127.0.0.1 https://www.reddit.com/r/tipofmypenis
-127.0.0.1 https://www.reddit.com/r/creampies
-127.0.0.1 https://www.reddit.com/r/Amateurincest
-127.0.0.1 https://www.reddit.com/r/Bottomless_Vixens
-127.0.0.1 https://www.reddit.com/r/dirtypenpals
-127.0.0.1 https://www.reddit.com/r/jilling
-127.0.0.1 https://www.reddit.com/r/downblouse
-127.0.0.1 https://www.reddit.com/r/BDSMcommunity
-127.0.0.1 https://www.reddit.com/r/stockings
-127.0.0.1 https://www.reddit.com/r/IndianBabes
-127.0.0.1 https://www.reddit.com/r/cumfetish
-127.0.0.1 https://www.reddit.com/r/BonerMaterial
-127.0.0.1 https://www.reddit.com/r/nsfwcosplay
-127.0.0.1 https://www.reddit.com/r/celebnsfw
-127.0.0.1 https://www.reddit.com/r/Stacked
-127.0.0.1 https://www.reddit.com/r/bdsm
-127.0.0.1 https://www.reddit.com/r/gonewildaudio
-127.0.0.1 https://www.reddit.com/r/LipsThatGrip
-127.0.0.1 https://www.reddit.com/r/juicyasians
-127.0.0.1 https://www.reddit.com/r/boltedontits
-127.0.0.1 https://www.reddit.com/r/GWCouples
-127.0.0.1 https://www.reddit.com/r/Bondage
-127.0.0.1 https://www.reddit.com/r/gonewildcurvy
-127.0.0.1 https://www.reddit.com/r/HighResNSFW
-127.0.0.1 https://www.reddit.com/r/asstastic
-127.0.0.1 https://www.reddit.com/r/facedownassup
-127.0.0.1 https://www.reddit.com/r/tightdresses
-127.0.0.1 https://www.reddit.com/r/voluptuous
-127.0.0.1 https://www.reddit.com/r/lesbians
-127.0.0.1 https://www.reddit.com/r/porn
-127.0.0.1 https://www.reddit.com/r/TittyDrop
-127.0.0.1 https://www.reddit.com/r/pussy
-127.0.0.1 https://www.reddit.com/r/palegirls
-127.0.0.1 https://www.reddit.com/r/burstingout
-127.0.0.1 https://www.reddit.com/r/Upskirt
-127.0.0.1 https://www.reddit.com/r/hentai
-127.0.0.1 https://www.reddit.com/r/O_Faces
-127.0.0.1 https://www.reddit.com/r/suicidegirls
-127.0.0.1 https://www.reddit.com/r/nsfwoutfits
-127.0.0.1 https://www.reddit.com/r/GoneWildTube
-127.0.0.1 https://www.reddit.com/r/gonewildstories
-127.0.0.1 https://www.reddit.com/r/datgap
-127.0.0.1 https://www.reddit.com/r/hugeboobs
-127.0.0.1 https://www.reddit.com/r/thick
-127.0.0.1 https://www.reddit.com/r/NSFWFunny
-127.0.0.1 https://www.reddit.com/r/treesgonewild
-127.0.0.1 https://www.reddit.com/r/Blowjobs
-127.0.0.1 https://www.reddit.com/r/GoneWildPlus
-127.0.0.1 https://www.reddit.com/r/AsianHotties
-127.0.0.1 https://www.reddit.com/r/GirlswithGlasses
-127.0.0.1 https://www.reddit.com/r/dirtysmall
-127.0.0.1 https://www.reddit.com/r/redheads
-127.0.0.1 https://www.reddit.com/r/randomsexiness
-127.0.0.1 https://www.reddit.com/r/curvy
-127.0.0.1 https://www.reddit.com/r/Hotchickswithtattoos
-127.0.0.1 https://www.reddit.com/r/nsfwhardcore
-127.0.0.1 https://www.reddit.com/r/pornvids
-127.0.0.1 https://www.reddit.com/r/holdthemoan
-127.0.0.1 https://www.reddit.com/r/AsiansGoneWild
-127.0.0.1 https://www.reddit.com/r/pawg
-127.0.0.1 https://www.reddit.com/r/porninfifteenseconds
-127.0.0.1 https://www.reddit.com/r/futanari
-127.0.0.1 https://www.reddit.com/r/BDSMAdvice/
-127.0.0.1 https://www.reddit.com/r/cosplaybabes/
-127.0.0.1 https://www.reddit.com/r/SexWorkersOnly/
-127.0.0.1 https://www.reddit.com/r/SexWorkers/
-127.0.0.1 https://www.reddit.com/r/sexover30/
-127.0.0.1 https://www.reddit.com/r/EroticSexx147/
-127.0.0.1 https://www.reddit.com/r/sex/
-127.0.0.1 https://www.reddit.com/r/sexstories/
-127.0.0.1 https://www.reddit.com/r/eroticstoriesxxx/
-127.0.0.1 https://www.reddit.com/r/eroticcomics/
-127.0.0.1 https://www.reddit.com/r/eroticaeverywhere/
-127.0.0.1 https://www.reddit.com/r/eroticaauthors/
-127.0.0.1 https://www.reddit.com/r/eroticliterature/
-127.0.0.1 https://www.reddit.com/r/erotic_stories/
-127.0.0.1 https://www.reddit.com/r/sexystories/
-127.0.0.1 https://www.reddit.com/r/SexyWomanOfTheDay/
-127.0.0.1 https://www.reddit.com/r/Roleplay/
-127.0.0.1 https://www.reddit.com/r/TwoXSex/
-127.0.0.1 https://www.reddit.com/r/truelesbians/
-127.0.0.1 https://www.reddit.com/r/smutwriters/
-127.0.0.1 https://www.reddit.com/r/heaving_breasts/
-127.0.0.1 https://www.reddit.com/r/InterracialErotica/
-127.0.0.1 https://www.reddit.com/r/writingcirclejerk/
-127.0.0.1 https://www.reddit.com/r/PantiesandPantyhose/
-127.0.0.1 https://www.reddit.com/user/eroticas
-127.0.0.1 https://www.reddit.com/user/Erotica17
-127.0.0.1 https://www.reddit.com/r/LesbianActually/
-127.0.0.1 https://www.reddit.com/r/sexygames/
-127.0.0.1 https://www.reddit.com/r/mildlypenis/
-127.0.0.1 https://www.reddit.com/r/gaybroscirclejerk/
-127.0.0.1 https://www.reddit.com/r/Tinder/
-127.0.0.1 https://www.reddit.com/r/PornhubComments/
-127.0.0.1 https://www.reddit.com/r/OddlyArousing/
-127.0.0.1 https://www.reddit.com/r/TheBluePill/
-127.0.0.1 https://www.reddit.com/r/OddlyErotic/
-127.0.0.1 https://www.reddit.com/r/menwritingwomen/
-127.0.0.1 https://www.reddit.com/r/adultery/
-127.0.0.1 https://www.reddit.com/r/SluttyConfessions/
-127.0.0.1 https://www.reddit.com/r/Affairs/
-127.0.0.1 https://www.reddit.com/r/forcedcreampie/
-127.0.0.1 https://www.reddit.com/r/stupidslutsclub/
-127.0.0.1 https://www.reddit.com/r/AskReddit/
-127.0.0.1 https://www.reddit.com/r/AskRedditAfterDark/
-127.0.0.1 https://www.reddit.com/r/knockmeup/
-127.0.0.1 https://www.reddit.com/r/Whoopsgoesthecondom/
-127.0.0.1 https://www.reddit.com/r/freeuse/
-127.0.0.1 https://www.reddit.com/r/cuckoldstories/
-127.0.0.1 https://www.reddit.com/r/Hotwife/
-127.0.0.1 https://www.reddit.com/r/OkCupid/
-127.0.0.1 https://www.reddit.com/r/felching/
-127.0.0.1 https://www.4chan.org/
-127.0.0.1 https://www.u18chan.com/
-127.0.0.1 https://420chan.org/
-127.0.0.1 https://bbw-chan.nl/
-127.0.0.1 https://8kun.top/index.html
-127.0.0.1 http://7chan.org/
-127.0.0.1 https://pregchan.com/
-127.0.0.1 https://www.archiveofsins.com/
-127.0.0.1 https://www.ichan.net/
-127.0.0.1 https://www.thebarchive.com/
-
-# [Gallery Sites]
-127.0.0.1 https://www.erocurves.com/
-127.0.0.1 https://www.cherrynudes.com/
-127.0.0.1 https://www.girlznation.com/
-127.0.0.1 https://www.88gals.com/
-127.0.0.1 http://www.nudems.com/
-127.0.0.1 https://www.dirtynakedpics.com/
-127.0.0.1 https://www.bunnylust.com/
-127.0.0.1 https://www.shegg.com/
-127.0.0.1 https://www.mypornstarbook.net/
-127.0.0.1 https://www.lemmecheck.com/
-127.0.0.1 https://boolwowgirls.com/
-
-# [Blogs]
-127.0.0.1 www.pornmode.com
-127.0.0.1 www.erohut.com
-127.0.0.1 www.candy.porn
-127.0.0.1 www.boobieblog.com
-127.0.0.1 www.blog.pinkworld.com
-127.0.0.1 www.mybigtitsbabes.com
-127.0.0.1 www.thelittleslush.com
-127.0.0.1 www.blog.mrpinks.com
-127.0.0.1 www.xmilfporn.com
-127.0.0.1 www.bootysource.com
-127.0.0.1 www.interracialfuckfan.com
-127.0.0.1 www.analpornfan.com
-127.0.0.1 www.boobsrealm.com
-127.0.0.1 www.redbled.com
-127.0.0.1 www.blogvporn.com
-127.0.0.1 www.ifl-porn.com
-127.0.0.1 www.femdomdestiny.com
-127.0.0.1 www.xartfan.com
-127.0.0.1 www.purelyceleb.com
-
-# [File Hosting and Downloading Sites]
-127.0.0.1 https://www.pornhost.com/
-127.0.0.1 https://fetish-island.com/
-127.0.0.1 https://rarbggo.org/torrents.php?category=4
-127.0.0.1 https://thepiratebay.cx/home/
-127.0.0.1 https://thepirate-bay.org/home116
-127.0.0.1 https://thepiratebays.com.se/en/
-127.0.0.1 https://www.tpbproxypirate.com/
-127.0.0.1 https://www.pirateproxy.space/
-127.0.0.1 http://www.pornleech.is/?z
-127.0.0.1 https://pornbay.org/
-127.0.0.1 http://pornolab.net/forum/index.php
-127.0.0.1 https://onejav.com/
-127.0.0.1 https://www.javjunkies.com/
-127.0.0.1 https://www.tokyotosho.info/
-127.0.0.1 https://www.1337x.to/
-127.0.0.1 https://myporn.club/
-127.0.0.1 https://xxx.bootytape.com/
-127.0.0.1 https://www.empornium.me/
-
-# [Live Webcams/Chat]
-127.0.0.1 https://camshowhub.to/
-127.0.0.1 http://webmodelslive.com/
-127.0.0.1 https://www.camsfinder.com/
-127.0.0.1 https://www.slutroulette.com/
-127.0.0.1 http://gorgeouscams.com/livejasmin.html
-127.0.0.1 https://www.masturbate2gether.com/
-127.0.0.1 https://www.sexybritishbabes.com/
-
-# [Sex Stories Websites]
-127.0.0.1 https://www.indiansexstories2.net/
-127.0.0.1 https://juicysexstories.com/
-127.0.0.1 https://www.buzzfeed.com/spenceralthouse/hot-sex-stories
-127.0.0.1 https://www.cosmopolitan.com/uk/love-sex/sex/a30638369/beach-sex/
-127.0.0.1 https://www.4freestories.com
-127.0.0.1 https://bitchtopia.com
-127.0.0.1 https://sexualstories.club
-127.0.0.1 https://www.sex4stories.com
-127.0.0.1 https://your-erotic-stories.com
-127.0.0.1 https://tags.literotica.com
-127.0.0.1 https://tags.lushstories.com
-127.0.0.1 https://www.sexstories-archive.com
-127.0.0.1 https://www.refinery29.com/en-us/married-sex-stories
-127.0.0.1 https://marriageheat.com/
-127.0.0.1 https://xhamster.com/stories
-127.0.0.1 https://omgkinky.com/
-
-# [Porn Search Engines] (yes, this kind of thing exists)
-127.0.0.1 www.pornmd.com
-127.0.0.1 www.nudevista.com
-127.0.0.1 www.findtubes.com
-127.0.0.1 www.rexxx.org
-127.0.0.1 www.namethatporn.com
-127.0.0.1 www.namethatpornstar.com
-127.0.0.1 www.porndex.com
-127.0.0.1 www.ro89.com
-127.0.0.1 www.pornstarbyface.com
-127.0.0.1 www.badjojo.com
-127.0.0.1 www.boodigo.com
-
-# [Pornstar Databases] (yes, this exists as well)
-127.0.0.1 www.iafd.com
-127.0.0.1 www.freeones.com
-127.0.0.1 www.javlibrary.com
-127.0.0.1 www.boobpedia.com
-127.0.0.1 www.definebabe.com
-127.0.0.1 www.pornteengirl.com
-127.0.0.1 www.shemalestardb.com
-127.0.0.1 www.adultfilmdatabase.com
-127.0.0.1 www.babepedia.com
-127.0.0.1 www.europornstar.com
-127.0.0.1 www.babesandstars.com
-127.0.0.1 www.dbnaked.com
-127.0.0.1 www.mypornstarbook.net
-127.0.0.1 www.definefetish.com
-127.0.0.1 www.fancentro.com
-127.0.0.1 www.porn-star.com
-
-# [Escort/Company Sites]
-127.0.0.1 www.escortdirectory.com
-127.0.0.1 www.eurogirlsescort.com
-127.0.0.1 www.eroticmonkey.ch
-127.0.0.1 www.eros.com
-127.0.0.1 www.skipthegames.com
-127.0.0.1 www.escortmeetings.com
-127.0.0.1 www.slixa.com
-127.0.0.1 www.ts4rent.eu
-127.0.0.1 www.escortguide.co.uk
-127.0.0.1 www.adultwork.com
-127.0.0.1 www.scarletblue.com.au
-127.0.0.1 www.humpchies.com
-127.0.0.1 www.escort-ireland.com
-127.0.0.1 www.newzealandgirls.co.nz
-127.0.0.1 www.listcrawler.com
-127.0.0.1 www.cityxguide.com
-127.0.0.1 www.usasexguide.nl
-127.0.0.1 www.eccie.net
-127.0.0.1 www.tnaboard.com
-127.0.0.1 www.adultlook.com
-127.0.0.1 www.ukpunting.com
-127.0.0.1 www.girlsforsex.club
-127.0.0.1 https://www.uksexcontacts.com/
-
-# [Online Sex Shops]
-127.0.0.1 www.fleshlight.com
-127.0.0.1 www.siliconwives.com
-127.0.0.1 www.adameve.com
-127.0.0.1 www.adultempire.com
-127.0.0.1 www.jlist.com
-127.0.0.1 www.realdoll.com
-127.0.0.1 https://www.joylovedolls.com/
-127.0.0.1 https://www.yourdoll.com/
-
-# [Diverse shady websites]
+# [Some diverse shady websites]
+# This category is a mix of sites that will be re-categorized when possible.
 127.0.0.1 www.hyperdreams.com
 127.0.0.1 www.istripper.com
 127.0.0.1 www.adultoffline.com
@@ -1665,6 +1356,77 @@
 127.0.0.1 www.eroticstories.com
 127.0.0.1 https://vipcams.literotica.com
 127.0.0.1 https://chewitdoit.com/cammedia/
+
+# [Live Webcams/Chat]
+127.0.0.1 https://camshowhub.to/
+127.0.0.1 http://webmodelslive.com/
+127.0.0.1 https://www.camsfinder.com/
+127.0.0.1 https://www.slutroulette.com/
+127.0.0.1 http://gorgeouscams.com/livejasmin.html
+127.0.0.1 https://www.masturbate2gether.com/
+127.0.0.1 https://www.sexybritishbabes.com/
+
+# [Sex Stories Websites]
+127.0.0.1 https://www.indiansexstories2.net/
+127.0.0.1 https://juicysexstories.com/
+127.0.0.1 https://www.buzzfeed.com/spenceralthouse/hot-sex-stories
+127.0.0.1 https://www.cosmopolitan.com/uk/love-sex/sex/a30638369/beach-sex/
+127.0.0.1 https://www.4freestories.com
+127.0.0.1 https://bitchtopia.com
+127.0.0.1 https://sexualstories.club
+127.0.0.1 https://www.sex4stories.com
+127.0.0.1 https://your-erotic-stories.com
+127.0.0.1 https://tags.literotica.com
+127.0.0.1 https://tags.lushstories.com
+127.0.0.1 https://www.sexstories-archive.com
+127.0.0.1 https://www.refinery29.com/en-us/married-sex-stories
+127.0.0.1 https://marriageheat.com/
+127.0.0.1 https://xhamster.com/stories
+127.0.0.1 https://omgkinky.com/
+
+# [Alternative access URLs]
+# Includes the localized versions of sites like PornHub and Spankbang. Also some alternative PornHub URLs.
+127.0.0.1 www.pornjub.com
+127.0.0.1 www.pornhab.com
+127.0.0.1 www.pornhub.net
+127.0.0.1 https://es.pornhub.com
+127.0.0.1 https://de.pornhub.com
+127.0.0.1 https://fr.pornhub.com
+127.0.0.1 https://it.pornhub.com
+127.0.0.1 https://pt.pornhub.com
+127.0.0.1 https://pl.pornhub.com
+127.0.0.1 https://rt.pornhub.com
+127.0.0.1 https://jp.pornhub.com
+127.0.0.1 https://nl.pornhub.com
+127.0.0.1 https://cz.pornhub.com
+127.0.0.1 https://cn.pornhub.com
+127.0.0.1 https://br.spankbang.com/
+127.0.0.1 https://de.spankbang.com/
+127.0.0.1 https://tr.spankbang.com/
+127.0.0.1 https://jp.spankbang.com/
+127.0.0.1 https://th.spankbang.com/
+127.0.0.1 https://la.spankbang.com/
+127.0.0.1 https://pt.spankbang.com/
+127.0.0.1 https://nl.spankbang.com/
+127.0.0.1 https://it.spankbang.com/
+127.0.0.1 https://se.spankbang.com/
+127.0.0.1 https://ms.spankbang.com/
+127.0.0.1 https://es.spankbang.com/
+127.0.0.1 https://fr.spankbang.com/
+127.0.0.1 https://pl.spankbang.com/
+127.0.0.1 https://ru.spankbang.com/
+127.0.0.1 https://in.spankbang.com/
+127.0.0.1 https://id.spankbang.com/
+
+# [Porn Games Sites]
+127.0.0.1 www.network.nutaku.net
+127.0.0.1 www.sexemulator.com
+127.0.0.1 www.easygamepromo.com/ef/custom_affiliate/3dgame/index.html?sd=1&vc=1&offer=aHR0cHM6Ly93d3cuZzRtei5jb20vQlJLNUhLLzM1S1pKQlgvP3NvdXJjZV9pZD0g&sub1=porndabster
+127.0.0.1 www.funfuckdolls.com/bo/?pre=vrftt&bi=pw&sd=1&ai=56349&fk=c321&ca=216&ci=5d0c471c132f488fa3581fd0bbab17de&set=01&mod=ad
+127.0.0.1 www.marketgamebo.com/bo/bo_main_pwn_ef/index.html?url=3&vc=1&ft=pwn&campaign.id=216&clickid=16f5eb7d089244f69af8d6d91357d303
+127.0.0.1 www.ph.casino/?affid=112871&camp=porndabster
+127.0.0.1 https://adultgames.fun/t5/index.php?s=458&p=1&a=105372&t=0&bo=1&bon=straight&original_program=1&program=1&ref=&referrer=&site=458&affiliate=105372&ipv4=3188755120&tour=0&campaign=0&console=0&mpa3id=0&ip=190.16.138.176&mpa3track=MTA1MzcyfDQ1OHwxfDB8MA==
+127.0.0.1 https://www.sexemulator.com/
 
 # [Wikimedia-hosted content]
 127.0.0.1 https://www.commons.wikimedia.org/wiki/Category:Creampie_(sexual_act)
@@ -2011,16 +1773,6 @@
 127.0.0.1 https://www.commons.wikimedia.org/wiki/Category:Nudity_in_demonstrations_and_protests
 127.0.0.1 https://www.commons.wikimedia.org/wiki/Category:Sex_strike
 
-# [Porn Games Sites]
-127.0.0.1 www.network.nutaku.net
-127.0.0.1 www.sexemulator.com
-127.0.0.1 www.easygamepromo.com/ef/custom_affiliate/3dgame/index.html?sd=1&vc=1&offer=aHR0cHM6Ly93d3cuZzRtei5jb20vQlJLNUhLLzM1S1pKQlgvP3NvdXJjZV9pZD0g&sub1=porndabster
-127.0.0.1 www.funfuckdolls.com/bo/?pre=vrftt&bi=pw&sd=1&ai=56349&fk=c321&ca=216&ci=5d0c471c132f488fa3581fd0bbab17de&set=01&mod=ad
-127.0.0.1 www.marketgamebo.com/bo/bo_main_pwn_ef/index.html?url=3&vc=1&ft=pwn&campaign.id=216&clickid=16f5eb7d089244f69af8d6d91357d303
-127.0.0.1 www.ph.casino/?affid=112871&camp=porndabster
-127.0.0.1 https://adultgames.fun/t5/index.php?s=458&p=1&a=105372&t=0&bo=1&bon=straight&original_program=1&program=1&ref=&referrer=&site=458&affiliate=105372&ipv4=3188755120&tour=0&campaign=0&console=0&mpa3id=0&ip=190.16.138.176&mpa3track=MTA1MzcyfDQ1OHwxfDB8MA==
-127.0.0.1 https://www.sexemulator.com/
-
 # [Instagram erotic art/stuff accounts]
 # This ones should also be avoided. Includes mostly public accounts and some that are private. Works only on the web version. Not the app.
 127.0.0.1 https://www.instagram.com/philipinke2/
@@ -2242,3 +1994,243 @@
 127.0.0.1 https://www.instagram.com/freakyy.threadssss
 127.0.0.1 https://www.instagram.com/badboywithgirl666
 127.0.0.1 https://www.instagram.com/idreamoflove_
+
+# [Forums]
+# Includes sites like 4Chan, Reddit and some other porn forums out there.
+127.0.0.1 http://www.phun.org/
+127.0.0.1 https://kikdirty.com/
+127.0.0.1 https://www.intporn.com/forums/
+127.0.0.1 http://www.pornbb.org/forum
+127.0.0.1 https://www.redditlist.com
+127.0.0.1 https://www.reddit.com/r/gonewild
+127.0.0.1 https://www.reddit.com/r/nsfw
+127.0.0.1 https://www.reddit.com/r/nsfw_wtf
+127.0.0.1 https://www.reddit.com/r/grool
+127.0.0.1 https://www.reddit.com/r/NSFW_GIF
+127.0.0.1 https://www.reddit.com/r/RealGirls
+127.0.0.1 https://www.reddit.com/r/nsfw_gifs
+127.0.0.1 https://www.reddit.com/r/BustyPetite
+127.0.0.1 https://www.reddit.com/r/Amateur
+127.0.0.1 https://www.reddit.com/r/Boobies
+127.0.0.1 https://www.reddit.com/r/ass
+127.0.0.1 https://www.reddit.com/r/cumsluts
+127.0.0.1 https://www.reddit.com/r/OnOff
+127.0.0.1 https://www.reddit.com/r/LegalTeens
+127.0.0.1 https://www.reddit.com/r/GirlsFinishingTheJob
+127.0.0.1 https://www.reddit.com/r/girlsinyogapants
+127.0.0.1 https://www.reddit.com/r/rule34
+127.0.0.1 https://www.reddit.com/r/ginger
+127.0.0.1 https://www.reddit.com/r/GodPussy
+127.0.0.1 https://www.reddit.com/r/BBCSluts
+127.0.0.1 https://www.reddit.com/r/BDSMGW
+127.0.0.1 https://www.reddit.com/r/GirlswithNeonHair
+127.0.0.1 https://www.reddit.com/r/WomenOfColor
+127.0.0.1 https://www.reddit.com/r/workgonewild/
+127.0.0.1 https://www.reddit.com/r/tipofmypenis
+127.0.0.1 https://www.reddit.com/r/creampies
+127.0.0.1 https://www.reddit.com/r/Amateurincest
+127.0.0.1 https://www.reddit.com/r/Bottomless_Vixens
+127.0.0.1 https://www.reddit.com/r/dirtypenpals
+127.0.0.1 https://www.reddit.com/r/jilling
+127.0.0.1 https://www.reddit.com/r/downblouse
+127.0.0.1 https://www.reddit.com/r/BDSMcommunity
+127.0.0.1 https://www.reddit.com/r/stockings
+127.0.0.1 https://www.reddit.com/r/IndianBabes
+127.0.0.1 https://www.reddit.com/r/cumfetish
+127.0.0.1 https://www.reddit.com/r/BonerMaterial
+127.0.0.1 https://www.reddit.com/r/nsfwcosplay
+127.0.0.1 https://www.reddit.com/r/celebnsfw
+127.0.0.1 https://www.reddit.com/r/Stacked
+127.0.0.1 https://www.reddit.com/r/bdsm
+127.0.0.1 https://www.reddit.com/r/gonewildaudio
+127.0.0.1 https://www.reddit.com/r/LipsThatGrip
+127.0.0.1 https://www.reddit.com/r/juicyasians
+127.0.0.1 https://www.reddit.com/r/boltedontits
+127.0.0.1 https://www.reddit.com/r/GWCouples
+127.0.0.1 https://www.reddit.com/r/Bondage
+127.0.0.1 https://www.reddit.com/r/gonewildcurvy
+127.0.0.1 https://www.reddit.com/r/HighResNSFW
+127.0.0.1 https://www.reddit.com/r/asstastic
+127.0.0.1 https://www.reddit.com/r/facedownassup
+127.0.0.1 https://www.reddit.com/r/tightdresses
+127.0.0.1 https://www.reddit.com/r/voluptuous
+127.0.0.1 https://www.reddit.com/r/lesbians
+127.0.0.1 https://www.reddit.com/r/porn
+127.0.0.1 https://www.reddit.com/r/TittyDrop
+127.0.0.1 https://www.reddit.com/r/pussy
+127.0.0.1 https://www.reddit.com/r/palegirls
+127.0.0.1 https://www.reddit.com/r/burstingout
+127.0.0.1 https://www.reddit.com/r/Upskirt
+127.0.0.1 https://www.reddit.com/r/hentai
+127.0.0.1 https://www.reddit.com/r/O_Faces
+127.0.0.1 https://www.reddit.com/r/suicidegirls
+127.0.0.1 https://www.reddit.com/r/nsfwoutfits
+127.0.0.1 https://www.reddit.com/r/GoneWildTube
+127.0.0.1 https://www.reddit.com/r/gonewildstories
+127.0.0.1 https://www.reddit.com/r/datgap
+127.0.0.1 https://www.reddit.com/r/hugeboobs
+127.0.0.1 https://www.reddit.com/r/thick
+127.0.0.1 https://www.reddit.com/r/NSFWFunny
+127.0.0.1 https://www.reddit.com/r/treesgonewild
+127.0.0.1 https://www.reddit.com/r/Blowjobs
+127.0.0.1 https://www.reddit.com/r/GoneWildPlus
+127.0.0.1 https://www.reddit.com/r/AsianHotties
+127.0.0.1 https://www.reddit.com/r/GirlswithGlasses
+127.0.0.1 https://www.reddit.com/r/dirtysmall
+127.0.0.1 https://www.reddit.com/r/redheads
+127.0.0.1 https://www.reddit.com/r/randomsexiness
+127.0.0.1 https://www.reddit.com/r/curvy
+127.0.0.1 https://www.reddit.com/r/Hotchickswithtattoos
+127.0.0.1 https://www.reddit.com/r/nsfwhardcore
+127.0.0.1 https://www.reddit.com/r/pornvids
+127.0.0.1 https://www.reddit.com/r/holdthemoan
+127.0.0.1 https://www.reddit.com/r/AsiansGoneWild
+127.0.0.1 https://www.reddit.com/r/pawg
+127.0.0.1 https://www.reddit.com/r/porninfifteenseconds
+127.0.0.1 https://www.reddit.com/r/futanari
+127.0.0.1 https://www.reddit.com/r/BDSMAdvice/
+127.0.0.1 https://www.reddit.com/r/cosplaybabes/
+127.0.0.1 https://www.reddit.com/r/SexWorkersOnly/
+127.0.0.1 https://www.reddit.com/r/SexWorkers/
+127.0.0.1 https://www.reddit.com/r/sexover30/
+127.0.0.1 https://www.reddit.com/r/EroticSexx147/
+127.0.0.1 https://www.reddit.com/r/sex/
+127.0.0.1 https://www.reddit.com/r/sexstories/
+127.0.0.1 https://www.reddit.com/r/eroticstoriesxxx/
+127.0.0.1 https://www.reddit.com/r/eroticcomics/
+127.0.0.1 https://www.reddit.com/r/eroticaeverywhere/
+127.0.0.1 https://www.reddit.com/r/eroticaauthors/
+127.0.0.1 https://www.reddit.com/r/eroticliterature/
+127.0.0.1 https://www.reddit.com/r/erotic_stories/
+127.0.0.1 https://www.reddit.com/r/sexystories/
+127.0.0.1 https://www.reddit.com/r/SexyWomanOfTheDay/
+127.0.0.1 https://www.reddit.com/r/Roleplay/
+127.0.0.1 https://www.reddit.com/r/TwoXSex/
+127.0.0.1 https://www.reddit.com/r/truelesbians/
+127.0.0.1 https://www.reddit.com/r/smutwriters/
+127.0.0.1 https://www.reddit.com/r/heaving_breasts/
+127.0.0.1 https://www.reddit.com/r/InterracialErotica/
+127.0.0.1 https://www.reddit.com/r/writingcirclejerk/
+127.0.0.1 https://www.reddit.com/r/PantiesandPantyhose/
+127.0.0.1 https://www.reddit.com/user/eroticas
+127.0.0.1 https://www.reddit.com/user/Erotica17
+127.0.0.1 https://www.reddit.com/r/LesbianActually/
+127.0.0.1 https://www.reddit.com/r/sexygames/
+127.0.0.1 https://www.reddit.com/r/mildlypenis/
+127.0.0.1 https://www.reddit.com/r/gaybroscirclejerk/
+127.0.0.1 https://www.reddit.com/r/Tinder/
+127.0.0.1 https://www.reddit.com/r/PornhubComments/
+127.0.0.1 https://www.reddit.com/r/OddlyArousing/
+127.0.0.1 https://www.reddit.com/r/TheBluePill/
+127.0.0.1 https://www.reddit.com/r/OddlyErotic/
+127.0.0.1 https://www.reddit.com/r/menwritingwomen/
+127.0.0.1 https://www.reddit.com/r/adultery/
+127.0.0.1 https://www.reddit.com/r/SluttyConfessions/
+127.0.0.1 https://www.reddit.com/r/Affairs/
+127.0.0.1 https://www.reddit.com/r/forcedcreampie/
+127.0.0.1 https://www.reddit.com/r/stupidslutsclub/
+127.0.0.1 https://www.reddit.com/r/AskReddit/
+127.0.0.1 https://www.reddit.com/r/AskRedditAfterDark/
+127.0.0.1 https://www.reddit.com/r/knockmeup/
+127.0.0.1 https://www.reddit.com/r/Whoopsgoesthecondom/
+127.0.0.1 https://www.reddit.com/r/freeuse/
+127.0.0.1 https://www.reddit.com/r/cuckoldstories/
+127.0.0.1 https://www.reddit.com/r/Hotwife/
+127.0.0.1 https://www.reddit.com/r/OkCupid/
+127.0.0.1 https://www.reddit.com/r/felching/
+127.0.0.1 https://www.4chan.org/
+127.0.0.1 https://www.u18chan.com/
+127.0.0.1 https://420chan.org/
+127.0.0.1 https://bbw-chan.nl/
+127.0.0.1 https://8kun.top/index.html
+127.0.0.1 http://7chan.org/
+127.0.0.1 https://pregchan.com/
+127.0.0.1 https://www.archiveofsins.com/
+127.0.0.1 https://www.ichan.net/
+127.0.0.1 https://www.thebarchive.com/
+
+# [Gallery Sites]
+127.0.0.1 https://www.erocurves.com/
+127.0.0.1 https://www.cherrynudes.com/
+127.0.0.1 https://www.girlznation.com/
+127.0.0.1 https://www.88gals.com/
+127.0.0.1 http://www.nudems.com/
+127.0.0.1 https://www.dirtynakedpics.com/
+127.0.0.1 https://www.bunnylust.com/
+127.0.0.1 https://www.shegg.com/
+127.0.0.1 https://www.mypornstarbook.net/
+127.0.0.1 https://www.lemmecheck.com/
+127.0.0.1 https://boolwowgirls.com/
+
+# [Blogs]
+127.0.0.1 www.pornmode.com
+127.0.0.1 www.erohut.com
+127.0.0.1 www.candy.porn
+127.0.0.1 www.boobieblog.com
+127.0.0.1 www.blog.pinkworld.com
+127.0.0.1 www.mybigtitsbabes.com
+127.0.0.1 www.thelittleslush.com
+127.0.0.1 www.blog.mrpinks.com
+127.0.0.1 www.xmilfporn.com
+127.0.0.1 www.bootysource.com
+127.0.0.1 www.interracialfuckfan.com
+127.0.0.1 www.analpornfan.com
+127.0.0.1 www.boobsrealm.com
+127.0.0.1 www.redbled.com
+127.0.0.1 www.blogvporn.com
+127.0.0.1 www.ifl-porn.com
+127.0.0.1 www.femdomdestiny.com
+127.0.0.1 www.xartfan.com
+127.0.0.1 www.purelyceleb.com
+
+# [File Hosting and Downloading Sites]
+127.0.0.1 https://www.pornhost.com/
+127.0.0.1 https://fetish-island.com/
+127.0.0.1 https://rarbggo.org/torrents.php?category=4
+127.0.0.1 https://thepiratebay.cx/home/
+127.0.0.1 https://thepirate-bay.org/home116
+127.0.0.1 https://thepiratebays.com.se/en/
+127.0.0.1 https://www.tpbproxypirate.com/
+127.0.0.1 https://www.pirateproxy.space/
+127.0.0.1 http://www.pornleech.is/?z
+127.0.0.1 https://pornbay.org/
+127.0.0.1 http://pornolab.net/forum/index.php
+127.0.0.1 https://onejav.com/
+127.0.0.1 https://www.javjunkies.com/
+127.0.0.1 https://www.tokyotosho.info/
+127.0.0.1 https://www.1337x.to/
+127.0.0.1 https://myporn.club/
+127.0.0.1 https://xxx.bootytape.com/
+127.0.0.1 https://www.empornium.me/
+
+# [Escort/Company Sites and Sex Shops]
+127.0.0.1 https://www.escortdirectory.com/
+127.0.0.1 https://www.eurogirlsescort.com/
+127.0.0.1 http://www.eroticmonkey.ch/#erotic
+127.0.0.1 https://www.eros.com/
+127.0.0.1 https://skipthegames.com/
+127.0.0.1 https://www.escortmeetings.com/
+127.0.0.1 https://www.slixa.com/
+127.0.0.1 https://ts4rent.eu/
+127.0.0.1 https://www.escortguide.co.uk/
+127.0.0.1 http://www.adultwork.com/
+127.0.0.1 https://scarletblue.com.au/
+127.0.0.1 https://www.humpchies.com/
+127.0.0.1 https://www.escort-ireland.com/
+127.0.0.1 https://www.newzealandgirls.co.nz/
+127.0.0.1 https://escortalligator.com.listcrawler.eu/
+127.0.0.1 http://www.usasexguide.nl/
+127.0.0.1 https://www.eccie.net/
+127.0.0.1 https://www.tnaboard.com/
+127.0.0.1 https://www.adultlook.com/
+127.0.0.1 https://www.ukpunting.com/
+127.0.0.1 https://snapbabes0.com/AR/71ab7f21c549b0b66feb7d55caf57a23/?a=18631&cr=16581&lid=2903&mh=d3lVS3NMeHlJT0JRaXFsZmRFQXZyeWVsenFaUnNvbHBJWHctODY4Ng%3D%3D&p=0&t=notrack
+127.0.0.1 https://www.uksexcontacts.com/
+127.0.0.1 https://www.fleshlight.com/
+127.0.0.1 https://www.siliconwives.com/
+127.0.0.1 https://www.adameve.com/
+127.0.0.1 https://www.adultempire.com/
+127.0.0.1 https://www.jlist.com/
+127.0.0.1 https://www.realdoll.com/
+127.0.0.1 https://www.joylovedolls.com/
+127.0.0.1 https://www.yourdoll.com/
