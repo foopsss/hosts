@@ -5,8 +5,7 @@
 
 # Categories listed on the filter by order:
 # [Porn Site Databases]
-# [PornHub alternate access links]
-# [PornHub/Spankbang alternative language sites]
+# [Alternative access URLs]
 # [Common Sites]
 # [Porn Discount & Review Sites]
 # [Forums]
@@ -36,34 +35,33 @@
 127.0.0.1 https://www.mygaysites.com/
 127.0.0.1 https://www.premiumpornlist.com/
 127.0.0.1 https://pay-porn.com/
-127.0.0.1 best-paypornsites.net
+127.0.0.1 http://best-paypornsites.net/
 127.0.0.1 https://bestxxxsites.com/
-127.0.0.1 thepornlist.com
+127.0.0.1 http://thepornlist.com/
 127.0.0.1 https://mypornbible.com/
 127.0.0.1 https://pornmate.com/
-127.0.0.1 bestpaypornsites.net
-127.0.0.1 paidporn.com
+127.0.0.1 http://bestpaypornsites.net/
+127.0.0.1 http://paidporn.com/
 127.0.0.1 https://toppornsites.com/
 127.0.0.1 https://thepornhero.com/
 127.0.0.1 https://www.premium-porn.com/
-127.0.0.1 lesbiansites.porn
-127.0.0.1 erotichdworld.com
+127.0.0.1 http://lesbiansites.porn/
+127.0.0.1 http://erotichdworld.com/
 127.0.0.1 https://thebestfetishsites.com/
 127.0.0.1 https://www.thepornlist.net/
 127.0.0.1 https://www.youpornlist.com/
 127.0.0.1 https://weknowporn.com/
-127.0.0.1 www.hotporn.today
+127.0.0.1 https://hotporn.today/
 127.0.0.1 https://www.reachporn.com/
 127.0.0.1 https://www.pornmaniak.com/
 127.0.0.1 https://www.webcamchamps.com/
 127.0.0.1 https://pornfrost.com
 
-# [PornHub alternate access links] (alternate URLs that lead you back to the main site. Pretty smart, huh?)
+# [Alternative access URLs]
+# Includes the localized versions of sites like PornHub and Spankbang. Also some alternative PornHub URLs.
 127.0.0.1 www.pornjub.com
 127.0.0.1 www.pornhab.com
 127.0.0.1 www.pornhub.net
-
-# [PornHub/Spankbang alternative language sites]
 127.0.0.1 https://es.pornhub.com
 127.0.0.1 https://de.pornhub.com
 127.0.0.1 https://fr.pornhub.com
