@@ -1,7 +1,7 @@
 # To-Do list
 Current task list to improve the "[hosts-porn](https://raw.githubusercontent.com/foopsss/hosts/master/hosts-porn)" file:
-- [ ] Add the correspondent prefix to every URL.
-- [ ] Re-categorize the URLs on "Common Sites" and "Some diverse shady websites" if needed.
+- [ ] Fix the current URLs.
+- [ ] Re-categorize the URLs on "Common Sites" if needed.
 - [ ] Include all the porn sites found in the following pages:
   - [ ] https://boolwowgirls.com/
   - [ ] http://www.maturemoms.tv/en/index.shtml
