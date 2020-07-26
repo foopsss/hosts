@@ -18,6 +18,18 @@ Current task list to improve the "[hosts-porn](https://raw.githubusercontent.com
   - [ ] https://kikdirty.com/
   - [ ] http://www.truthordarepics.com/
   - [ ] www.thegfnetwork.com
+  - [ ] https://www.mallandrinhas.net/
+  - [ ] https://www.xnalgas.com/
+  - [ ] https://www.sunnyleone.com/en/bonus_sites
+  - [ ] http://www.pinkworld.com/
+  - [ ] https://www.wtfpeople.com/
+  - [ ] http://www.uselessjunk.com/
+  - [ ] https://www.freesexyindians.com/
+  - [ ] https://www.antarvasnaclips.com/
+  - [ ] http://www.literotica.com/
+  - [ ] https://www.asstr.org/~/Kristen/
+  - [ ] http://www.bdsmlibrary.com/
+  - [ ] http://www.bondagezilla.com/
 - [ ] Check Reddit to see if there are any other sex-related sub-reddits. The following links may be useful:
   - https://www.reddit.com/r/AskRedditAfterDark/comments/gr5rp2/whats_the_most_specific_nsfw_sub_you_enjoy/
   - https://badgirlsbible.com/list-of-kinks-and-fetishes
