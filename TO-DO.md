@@ -60,6 +60,12 @@ Current task list to improve the "[hosts-porn](https://raw.githubusercontent.com
   - [ ] https://voyeurhit.com/
   - [ ] http://www.camvideos.tv/
   - [ ] www.reallifecam.top
+  - [ ] www.thepornstudy.com
+  - [ ] http://www.hotgirlclub.com/
+  - [ ] https://pandamovies.pw/
+  - [ ] https://www.laidhub.com/
+  - [ ] https://www.empflix.com/
+  - [ ] https://mangoporn.net/
 - [ ] Check Reddit to see if there are any other sex-related sub-reddits. The following links may be useful:
   - https://www.reddit.com/r/AskRedditAfterDark/comments/gr5rp2/whats_the_most_specific_nsfw_sub_you_enjoy/
   - https://badgirlsbible.com/list-of-kinks-and-fetishes
