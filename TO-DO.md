@@ -45,6 +45,21 @@ Current task list to improve the "[hosts-porn](https://raw.githubusercontent.com
   - [ ] https://tits-guru.com/
   - [ ] https://www.babesmachine.com
   - [ ] http://www.amabitch.com/
+  - [ ] https://www.sexy-youtubers.com/
+  - [ ] http://www.nudography.com/Links.aspx
+  - [ ] https://thefappening.wiki/
+  - [ ] http://www.asiangfvideos.com/
+  - [ ] https://japanhdv.com/network/
+  - [ ] https://sexycandidgirls.com/
+  - [ ] https://www.tubeteencam.com/
+  - [ ] https://vjav.com/
+  - [ ] https://javdoe.tv/
+  - [ ] http://brazzers3x.me/
+  - [ ] https://watchjavonline.com/
+  - [ ] http://www.iyottube.com/most-recent/
+  - [ ] https://voyeurhit.com/
+  - [ ] http://www.camvideos.tv/
+  - [ ] www.reallifecam.top
 - [ ] Check Reddit to see if there are any other sex-related sub-reddits. The following links may be useful:
   - https://www.reddit.com/r/AskRedditAfterDark/comments/gr5rp2/whats_the_most_specific_nsfw_sub_you_enjoy/
   - https://badgirlsbible.com/list-of-kinks-and-fetishes
