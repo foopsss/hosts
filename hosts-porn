@@ -4,7 +4,7 @@
 # which sites can be added.
 
 # Categories listed on the filter by order:
-# [Porn Databases/Discount & Review Sites]
+# [Porn Databases/Discount, Review, and Free accounts Sites]
 # [Porn Search Engines/Pornstar Databases]
 # [Common Sites]
 # [Live Webcams/Chat]
@@ -19,12 +19,12 @@
 # [File Hosting and Downloading Sites]
 # [Escort/Company Sites and Sex Shops]
 
-# NOTE: Continue checking from line N° 851
+# NOTE: Continue checking from line N° 953
 
 127.0.0.1  localhost
 ::1  localhost
 
-# [Porn Databases/Discount & Review Sites]
+# [Porn Databases/Discount, Review, and Free accounts Sites]
 # This is where you would go if you look for a list of sites.
 127.0.0.1 porndabster.com
 127.0.0.1 collectionofbestporn.com
@@ -73,6 +73,18 @@
 127.0.0.1 arabsexweb.com
 127.0.0.1 thecamdude.com
 127.0.0.1 freesafeporn.com/top-10/most-popular-hentai-porn-sites/
+127.0.0.1 freepornpass.biz
+127.0.0.1 www.brpass.org
+127.0.0.1 www.freepornday.com
+127.0.0.1 fivestarpornsites.com
+127.0.0.1 porngeek.com
+127.0.0.1 thepornlinks.com
+127.0.0.1 bangdirlist.com
+127.0.0.1 homefuckporn.com
+127.0.0.1 www.mrporngeek.com
+127.0.0.1 www.best-pornsites.com
+127.0.0.1 toppornsites.org
+127.0.0.1 freesafeporn.com
 
 # [Porn Search Engines/Pornstar Databases]
 127.0.0.1 www.pornmd.com
@@ -848,78 +860,112 @@
 127.0.0.1 www.taxi69.com
 127.0.0.1 www.tubewee.com
 127.0.0.1 mangoporn.net
-127.0.0.1 www.justswallows.com
-127.0.0.1 www.streamporn.pw
-127.0.0.1 www.yeapornpls.com
-127.0.0.1 www.xfantasy.tv
-127.0.0.1 www.porntv.com
+127.0.0.1 justswallows.com
+127.0.0.1 premium.justswallows.com
+127.0.0.1 streamporn.pw
+127.0.0.1 pornwild.to
+127.0.0.1 lazyporn.me
+127.0.0.1 saypornplease.com
+127.0.0.1 www.xxxhddownload.com
+127.0.0.1 xnxxmommy.com
+127.0.0.1 xxxvideoson.com
+127.0.0.1 16honeysporn.com
+127.0.0.1 publicporn.net
+127.0.0.1 xfantasy.tv
+127.0.0.1 www.xfantasy.com
 127.0.0.1 www.xnxx.com
+127.0.0.1 xnxxbest.pro
+127.0.0.1 in35.com
 127.0.0.1 www.xvideos.com
-127.0.0.1 www.house.porn
+127.0.0.1 house.porn
 127.0.0.1 www.puritanas.com
+127.0.0.1 www.videospornodetv.com
+127.0.0.1 www.eldiariox.com
+127.0.0.1 www.morbocornudos.com
 127.0.0.1 www.pornoreino.com
 127.0.0.1 www.serviporno.com
 127.0.0.1 www.pornoamateurvip.com
 127.0.0.1 www.soloporno.xxx
 127.0.0.1 www.bingoporno.com
-127.0.0.1 www.selvaporno.com
-127.0.0.1 www.mrpornogratis.com
+127.0.0.1 selvaporno.xxx
+127.0.0.1 www.mrporno.gratis
 127.0.0.1 www.drporno.xxx
-127.0.0.1 www.mrvideospornogratis.com
-127.0.0.1 www.xnxx2.pro
-127.0.0.1 www.veopornogratis.xxx
-127.0.0.1 www.drpornogratisx.xxx
-127.0.0.1 www.sirpornogratis.xxx
-127.0.0.1 www.ipornox.xxx
+127.0.0.1 xnxx2.pro
+127.0.0.1 veopornogratis.xxx
+127.0.0.1 drpornogratisx.xxx
+127.0.0.1 sirpornogratis.xxx
+127.0.0.1 ipornogratis.xxx
 127.0.0.1 www.pornoperra.com
-127.0.0.1 www.pornoreino.com
+127.0.0.1 www.felizporno.com
 127.0.0.1 www.madurashd.com
 127.0.0.1 www.viejasfollando.xxx
-127.0.0.1 www.petardashd.com
+127.0.0.1 petardashd.com
 127.0.0.1 www.tubev.sex
-127.0.0.1 www.cum4k.tube
-127.0.0.1 www.ipornogratis.xxx
+127.0.0.1 www.tubev.pro
+127.0.0.1 cum4k.tube
+127.0.0.1 ipornogratis.xxx
 127.0.0.1 www.videospornogratisx.net
-127.0.0.1 www.drpornogratis.xxx
+127.0.0.1 www.videosdemaduras.xxx
+127.0.0.1 drpornogratis.xxx
 127.0.0.1 www.muycerdas.xxx
-127.0.0.1 www.videoszoofiliaanimal.com
+127.0.0.1 www.zoofiliavideosxxx.com
 127.0.0.1 www.teencumpot.com
-127.0.0.1 www.videosxxxmaduras.xxx
+127.0.0.1 videosxxxmaduras.xxx
 127.0.0.1 www.porndroids.com
-127.0.0.1 www.videosdeputas.xxx
+127.0.0.1 videosdeputas.xxx
 127.0.0.1 www.porn.biz
 127.0.0.1 www.freefuckvidz.com
-127.0.0.1 www.xvideosex.site
-127.0.0.1 www.animeidhentai.com
-127.0.0.1 www.porn300.com
+127.0.0.1 xhuub.com
 127.0.0.1 www.maturemomson.com
 127.0.0.1 www.pornrabbit.com
-127.0.0.1 www.pornq.com
-127.0.0.1 www.hdpornpictures.com
+127.0.0.1 www.pornwatchers.com
+127.0.0.1 www.stileproject.com
+127.0.0.1 www.pornpine.com
+127.0.0.1 www.sexcram.com
+127.0.0.1 www.pornfare.com
+127.0.0.1 www.pornwings.com
+127.0.0.1 www.pornthing.com
+127.0.0.1 www.porngrip.com
+127.0.0.1 www.porngringo.com
+127.0.0.1 www.porngawk.com
+127.0.0.1 www.porngorge.com
+127.0.0.1 www.porncram.com
+127.0.0.1 www.pornsate.com
+127.0.0.1 pornq.com
+127.0.0.1 m.pornq.com
+127.0.0.1 thegay.porn
+127.0.0.1 see.xxx
+127.0.0.1 pornj.com
+127.0.0.1 tuberel.com
+127.0.0.1 imzog.com
+127.0.0.1 partysexs.com
+127.0.0.1 sss.xxx
+127.0.0.1 pornl.com
+127.0.0.1 getsex.xxx
+127.0.0.1 porn555.com
+127.0.0.1 pornforrelax.com
+127.0.0.1 puporn.com
 127.0.0.1 www.xhamsterpremium.com
+127.0.0.1 gold.xhamsterpremium.com
 127.0.0.1 www.videospornosos.com
-127.0.0.1 www.pornhdvideos.net
+127.0.0.1 www.pornhdvideos.xxx
 127.0.0.1 www.blackmilftube.com
-127.0.0.1 www.4tube.com
-127.0.0.1 www.anyxxx.pro
+127.0.0.1 anyxxx.pro
 127.0.0.1 www.xvideos.es
-127.0.0.1 www.wow-mature.com
+127.0.0.1 wow-mature.com
 127.0.0.1 www.japanesemomsex.com
 127.0.0.1 www.sunporno.com
-127.0.0.1 www.xcums.com
+127.0.0.1 xcums.com
 127.0.0.1 www.pornosto.com
-127.0.0.1 www.freepornpass.biz
-127.0.0.1 www.xmoviesforyou.com
-127.0.0.1 www.brpass.org
 127.0.0.1 www.pornhdx.to
-127.0.0.1 www.freepornday.com
+127.0.0.1 www5.javhihi.me
+127.0.0.1 www5.pornhd.to
 127.0.0.1 www.fapset.com
 127.0.0.1 www.xvideoscom.co
 127.0.0.1 www.secretfriends.com
 127.0.0.1 www.xxxland.net
 127.0.0.1 www.pornmate.com
 127.0.0.1 www.pornl.com
-127.0.0.1 www.mrporngeek.com
 127.0.0.1 www.pornpass.cc
 127.0.0.1 www.pornerbros.com
 127.0.0.1 www.snapnfsw.com
@@ -1194,6 +1240,11 @@
 127.0.0.1 pornve.com
 127.0.0.1 joymii.com
 127.0.0.1 bangbros.com
+127.0.0.1 pornoamateurvip.xxx
+127.0.0.1 fuck-videos.xxx
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
 
 # [Live Webcams/Chat]
 127.0.0.1 camshowhub.to
@@ -1219,7 +1270,7 @@
 127.0.0.1 www.streamate.com
 127.0.0.1 www.bongacams.com
 127.0.0.1 stripchat.com
-127.0.0.1 www.myfreecams.com/#Homepage
+127.0.0.1 www.myfreecams.com
 127.0.0.1 www.livejasmin.com/en/girls
 127.0.0.1 chaturbate.com
 127.0.0.1 cams.com
@@ -1256,6 +1307,11 @@
 127.0.0.1 www.xcamsclub.com
 127.0.0.1 www.smuttywebcams.com
 127.0.0.1 www.vipcams.literotica.com/webcam/couples-webcams?pid=g734964-pct.subvol21x1x0993a1b7-4896-474b-a9b9-9e4dd24f7a7a&tpa=0f426gma6ikktb52
+127.0.0.1 www.morbocams.com
+127.0.0.1 www.placercams.com
+127.0.0.1 www.olecams.com
+127.0.0.1 www.webcampornoxxx.net
+127.0.0.1 www.sunpornolive.com
 
 # [Sex Stories Websites]
 127.0.0.1 www.indiansexstories2.net
@@ -1445,6 +1501,7 @@
 127.0.0.1 landing.sexemulator.com
 127.0.0.1 bdsmsimulator.com
 127.0.0.1 www.best-porn-games.com
+127.0.0.1 www.xxx.game
 
 # [Wikimedia-hosted content]
 127.0.0.1 www.commons.wikimedia.org/wiki/Category:Creampie_(sexual_act)
@@ -2276,6 +2333,9 @@
 127.0.0.1 www.pictoa.com
 127.0.0.1 pornedup.com
 127.0.0.1 www.stasyq.com
+127.0.0.1 www.hdpornpictures.com
+127.0.0.1 www.morbocornudos.com
+127.0.0.1 www.gifs-porno.com
 
 # [Blogs]
 127.0.0.1 pornmode.com
@@ -2392,3 +2452,4 @@
 127.0.0.1 store.fuckingawesome.com
 127.0.0.1 shop.spreadshirt.com
 127.0.0.1 snapgirls0.com
+127.0.0.1 localhottestchicks.com/AR/71ab7f21c549b0b66feb7d55caf57a23/?a=537767&cr=16581&lid=6394&mh=WE9VYnNiTVhoZGVCSHpHU2dvR3dBR3BRZ2xNeEhSQU5zb04tMTMyNTE%3D&p=0&t=notrack
