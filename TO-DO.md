@@ -66,6 +66,12 @@ Current task list to improve the "[hosts-porn](https://raw.githubusercontent.com
   - [ ] https://www.laidhub.com/
   - [ ] https://www.empflix.com/
   - [ ] https://mangoporn.net/
+  - [ ] https://justswallows.com/articles/worth-visiting/7/ 
+  - [ ] https://streamporn.pw/ (take a look at the studios and friend sites list).
+  - [ ] pornobr.ninja
+  - [ ] http://www.morbocornudos.com/
+  - [ ] http://www.maturemomson.com/
+  - [ ] https://xcums.com/
 - [ ] Check Reddit to see if there are any other sex-related sub-reddits. The following links may be useful:
   - https://www.reddit.com/r/AskRedditAfterDark/comments/gr5rp2/whats_the_most_specific_nsfw_sub_you_enjoy/
   - https://badgirlsbible.com/list-of-kinks-and-fetishes
