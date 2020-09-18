@@ -4,8 +4,8 @@
 # which sites can be added.
 
 # Categories listed on the filter by order:
-# [Porn Databases/Discount, Review, and Free accounts Sites]
-# [Porn Search Engines/Pornstar Databases]
+# [Porn Databases, Discount, Review, and Free accounts Sites]
+# [Porn Search Engines and Pornstar Databases]
 # [Common Sites]
 # [Live Webcams/Chat]
 # [Sex Stories Websites]
@@ -19,12 +19,12 @@
 # [File Hosting and Downloading Sites]
 # [Escort/Company Sites, Sex Shops and Magazines]
 
-# NOTE: Continue checking from line N° 984
+# NOTE: Continue checking from line N° 1016
 
 127.0.0.1  localhost
 ::1  localhost
 
-# [Porn Databases/Discount, Review, and Free accounts Sites]
+# [Porn Databases, Discount, Review, and Free accounts Sites]
 # This is where you would go if you look for a list of sites.
 127.0.0.1 porndabster.com
 127.0.0.1 collectionofbestporn.com
@@ -97,8 +97,11 @@
 127.0.0.1 accountsz.com
 127.0.0.1 www.thepornpro.com
 127.0.0.1 www.pornsoak.com
+127.0.0.1 www.xpassgf.com
+127.0.0.1 www.pppornsites.com
+127.0.0.1 www.redbled.com
 
-# [Porn Search Engines/Pornstar Databases]
+# [Porn Search Engines and Pornstar Databases]
 127.0.0.1 www.pornmd.com
 127.0.0.1 www.nudevista.com
 127.0.0.1 www.findtubes.com
@@ -982,23 +985,34 @@
 127.0.0.1 www.pornrox.com
 127.0.0.1 twistedporn.com
 127.0.0.1 www.youpornpremium.com
-127.0.0.1 www.porntrial.net
+127.0.0.1 porntrial.net
 127.0.0.1 www.pornsensual.com
-127.0.0.1 www.porndeals.com
-127.0.0.1 www.xpassgf.com
-127.0.0.1 www.xnxxs.mobi
-127.0.0.1 www.iloveporn.xxx
-127.0.0.1 www.pppornsites.com
-127.0.0.1 www.gqindia.com
+127.0.0.1 porndeals.com
+127.0.0.1 sex.iloveporn.xxx
+127.0.0.1 porno800.com
 127.0.0.1 www.pornteen.xxx
+127.0.0.1 www.pornmovies.xxx
+127.0.0.1 www.8tube.xxx
+127.0.0.1 www.assfuck.xxx
+127.0.0.1 www.teengirls.xxx
+127.0.0.1 www.adultsex.xxx
+127.0.0.1 www.sexsex.xxx
+127.0.0.1 www.coupons.xxx
+127.0.0.1 www.kanadoll.com
+127.0.0.1 yepxxx.com
+127.0.0.1 porno700.com
+127.0.0.1 loveporn.xxx
+127.0.0.1 porno900.com
+127.0.0.1 www.hotnudegymnastics.com
+127.0.0.1 18videoz.com
 127.0.0.1 www.instawank.com
+127.0.0.1 handjobhub.com
 127.0.0.1 www.milfporn.tv
 127.0.0.1 www.atkmodels.com
-127.0.0.1 www.efappy.com
-127.0.0.1 www.redbled.com
+127.0.0.1 pornxtasy.com
 127.0.0.1 www.redtubepremium.com
 127.0.0.1 www.spakbang.com
-127.0.0.1 www.candid.tube
+127.0.0.1 candid.tube
 127.0.0.1 www.hdzog.com
 127.0.0.1 www.porntube.com
 127.0.0.1 www.pornhd.com
@@ -1346,6 +1360,9 @@
 127.0.0.1 www.kinklive.com
 127.0.0.1 queentits.com
 127.0.0.1 www.anisyia.com
+127.0.0.1 myteenwebcam.com
+127.0.0.1 www.livewebcam.xxx
+127.0.0.1 cams.pornxtasy.com
 
 # [Sex Stories Websites]
 127.0.0.1 www.indiansexstories2.net
@@ -2512,3 +2529,5 @@
 127.0.0.1 xmiss.pw
 127.0.0.1 mypornboutique.com
 127.0.0.1 www.trendzz.com
+127.0.0.1 best-dating-girls3.com
+127.0.0.1 www.localsnapsext.com
