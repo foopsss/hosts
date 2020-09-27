@@ -100,6 +100,7 @@ Current task list to improve the "[hosts-porn](https://raw.githubusercontent.com
   - [ ] https://crazyshit.com/
   - [ ] https://www.home-made-videos.com/
   - [ ] https://www.terk.nl/
+  - [ ] http://www.thecambabes.com/
 - [ ] Check Reddit to see if there are any other sex-related sub-reddits. The following links may be useful:
   - https://www.reddit.com/r/AskRedditAfterDark/comments/gr5rp2/whats_the_most_specific_nsfw_sub_you_enjoy/
   - https://badgirlsbible.com/list-of-kinks-and-fetishes
