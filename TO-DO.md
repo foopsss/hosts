@@ -124,6 +124,30 @@ Current task list to improve the "[hosts-porn](https://raw.githubusercontent.com
   - [ ] justsexvideo.com
   - [ ] freesextube.su
   - [ ] www.free-sex.pro
+  - [ ] www.xxxyoungpussyfuck.com
+  - [ ] teensexxxvideos.com
+  - [ ] youngsluts.tv
+  - [ ] www.spicystory.net
+  - [ ] http://www.betterteensex.com/
+  - [ ] www.shemaleclip.com
+  - [ ] http://www.japansporno.com/
+  - [ ] http://www.6xxxvideos.com/
+  - [ ] http://www.aaaporn.net/
+  - [ ] teensexvideo.tv
+  - [ ] www.teensex.sexy
+  - [ ] www.onlycollegeporn.com
+  - [ ] www.ivintageporn.com
+  - [ ] www.originalindianporn.com
+  - [ ] www.bestindiansex.com
+  - [ ] www.xasianvideos.com
+  - [ ] www.sweetyoungtube.com
+  - [ ] www.xxxteenstube.com
+  - [ ] www.hqshemaleporn.com
+  - [ ] www.indiansexpussy.com
+  - [ ] www.allebonys.com
+  - [ ] www.mybbwporn.com
+  - [ ] www.niceshemaleporn.com
+  - [ ] www.firstasianpussy.com
 - [ ] Check Reddit to see if there are any other sex-related sub-reddits. The following links may be useful:
   - https://www.reddit.com/r/AskRedditAfterDark/comments/gr5rp2/whats_the_most_specific_nsfw_sub_you_enjoy/
   - https://badgirlsbible.com/list-of-kinks-and-fetishes
