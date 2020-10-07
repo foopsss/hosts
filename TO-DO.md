@@ -108,6 +108,22 @@ Current task list to improve the "[hosts-porn](https://raw.githubusercontent.com
   - [ ] http://www.pornoxxx.wtf/ (has some interesting site names that could be worth checking out)
   - [ ] https://theteenbay.co/
   - [ ] xxxpornotuber.com
+  - [ ] https://www.porn18.tv/es/
+  - [ ] www.sexlist.tv
+  - [ ] www.pornlist.tv
+  - [ ] www.24h.porn
+  - [ ] www.xmom.tv
+  - [ ] maturefuck.su
+  - [ ] milftube.su
+  - [ ] www.mommy.su
+  - [ ] milfsexmaturemom.com
+  - [ ] www.vr-porn.tv
+  - [ ] pornmaniac.tv
+  - [ ] www.x-videos.su
+  - [ ] www.brazzer.su
+  - [ ] justsexvideo.com
+  - [ ] freesextube.su
+  - [ ] www.free-sex.pro
 - [ ] Check Reddit to see if there are any other sex-related sub-reddits. The following links may be useful:
   - https://www.reddit.com/r/AskRedditAfterDark/comments/gr5rp2/whats_the_most_specific_nsfw_sub_you_enjoy/
   - https://badgirlsbible.com/list-of-kinks-and-fetishes
