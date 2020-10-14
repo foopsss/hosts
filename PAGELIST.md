@@ -146,3 +146,21 @@ The pages listed here have references to other sites that will be added in the f
   - www.firstasianpussy.com
   - hardjap.co
   - teens.ooo
+  - http://teen-porno.net/
+  - xnxx-teens.com
+  - http://teen18pussy.com
+  - http://teenxporn.tv
+  - teens19.net
+  - teencum.tv
+  - teenxmovies.net
+  - iteens.tv
+  - teenhole.net
+  - teenpuss.tv
+  - shyteen.tv
+  - teenhooker.net
+  - teensporn.cc
+  - teenx.tv
+  - http://xnxx-teens.com
+  - http://www.russian-teen-sex.com/
+  - http://www.pornyoung.me/
+  - teenxxxvideo.tv
