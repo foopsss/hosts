@@ -164,3 +164,12 @@ The pages listed here have references to other sites that will be added in the f
   - http://www.russian-teen-sex.com/
   - http://www.pornyoung.me/
   - teenxxxvideo.tv
+  - http://www.18porn.me/
+  - clubteenporn.com
+  - http://www.teensexgood.com/
+  - www.allnewindianporn.com
+  - pornteentube.tv (check site list at the end)
+  - bestsexmovies.net
+  - http://beeg-videos.net/
+  - http://beautiful-girl-sex.com/
+  - http://freehdvideos.xxx/
