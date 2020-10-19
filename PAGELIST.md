@@ -181,3 +181,12 @@ The pages listed here have references to other sites that will be added in the f
   - http://moviexxx.pro
   - http://hothdsex.xxx/
   - http://hdpussy.xxx/
+  - www.tubezaur.com
+  - www.bigtitszone.com
+  - www.freeporncave.com
+  - pornomovieshd.com
+  - www.sopornvideos.com
+  - thecreampieporn.com
+  - amateurporngirlfriends.com
+  - xngay.com
+  - www.milf-sex-clips.com
