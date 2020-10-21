@@ -190,3 +190,11 @@ The pages listed here have references to other sites that will be added in the f
   - amateurporngirlfriends.com
   - xngay.com
   - www.milf-sex-clips.com
+  - http://datelinknetworks.com/privacy.aspx/ (has a comprehensive list of sex dating websites)
+  - pornkai.com
+  - www.xhxvideos.com
+  - https://www.larasplayground.com/friends.php
+  - teentubehq.com
+  - www.skindiamond.net
+  - http://www.priyaanjalirai.com/
+  - www.kickass.com
