@@ -196,5 +196,4 @@ The pages listed here have references to other sites that will be added in the f
   - https://www.larasplayground.com/friends.php
   - teentubehq.com
   - www.skindiamond.net
-  - http://www.priyaanjalirai.com/
   - www.kickass.com
