@@ -200,3 +200,17 @@ The pages listed here have references to other sites that will be added in the f
   - nude-gals.com
   - sexfilmstube.com
   - www.tube2017.com
+  - http://pornhail.com/
+  - http://www.porn2012.com
+  - xnxxx.name
+  - http://elephanttubenew.com/
+  - bigxxxclips.pro
+  - http://www-xnxx.net
+  - http://sextube.fm/
+  - www.tuboff.com
+  - bdsmartcollection.com
+  - http://popularcartoonporn.com/
+  - http://bdsmartcollection.com/
+  - bdsmartgalleries.com
+  - www.brostube.com
+  - www.narutohentaidb.com
