@@ -214,3 +214,8 @@ The pages listed here have references to other sites that will be added in the f
   - bdsmartgalleries.com
   - www.brostube.com
   - www.narutohentaidb.com
+  - gofucker.com
+  - wiz69.com
+  - beeg.porn
+  - www.sextubeset.com
+  - www.hardpole.com
