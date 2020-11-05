@@ -11,8 +11,7 @@
 # [Sex Stories/Readings Websites]
 # [Alternative access URLs]
 # [Porn Games Sites]
-# [Wikimedia-hosted content]
-# [Social Networks]
+# [Social Networks/Wikimedia]
 # [Forums]
 # [Multimedia]
 # [Blogs]
@@ -2733,16 +2732,13 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 porngames.porn
 127.0.0.1 adult.game
 
-# [Wikimedia-hosted content]
-# As innocent as this may appear, Wikimedia keeps videos and photos of sexual acts and site-per-site blocking is not being useful.
-# I've noticed some videos are marked for deletion which will hopefully happen soon. Until them, the safe bet is to block the site entirely.
-127.0.0.1 www.commons.wikimedia.org
-127.0.0.1 www.upload.wikimedia.org
-
-# [Social Networks]
+# [Social Networks/Wikimedia]
+# Sadly, I can't do much to manage all the sexual content available in these pages so the safest bet is to block them entirely.
 127.0.0.1 www.instagram.com
 127.0.0.1 twitter.com
 127.0.0.1 mobile.twitter.com
+127.0.0.1 www.commons.wikimedia.org
+127.0.0.1 www.upload.wikimedia.org
 
 # [Forums]
 # Includes sites like 4Chan, Reddit and some other porn forums, boards, etc out there.
