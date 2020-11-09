@@ -2124,6 +2124,9 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 www.milffox.com
 127.0.0.1 www.multi.xxx
 127.0.0.1 www.extremetube.com
+127.0.0.1 www.pichaloca.com
+127.0.0.1 asian-cuties.com
+127.0.0.1 cuteasians.co
 
 # [Live Webcams/Chat]
 127.0.0.1 www.camsfinder.com
@@ -2748,8 +2751,9 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 twitter.com
 127.0.0.1 mobile.twitter.com
 127.0.0.1 www.reddit.com
-127.0.0.1 www.commons.wikimedia.org
-127.0.0.1 www.upload.wikimedia.org
+127.0.0.1 commons.wikimedia.org
+127.0.0.1 commons.m.wikimedia.org
+127.0.0.1 upload.wikimedia.org
 
 # [Forums]
 # Includes sites like 4Chan, Reddit and some other porn forums, boards, etc out there.
