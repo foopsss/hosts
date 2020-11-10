@@ -219,3 +219,6 @@ The pages listed here have references to other sites that will be added in the f
   - beeg.porn
   - www.sextubeset.com
   - www.hardpole.com
+  - http://asian-cuties.com/
+  - http://cuteasians.co/
+  - https://glavmatures.com/
