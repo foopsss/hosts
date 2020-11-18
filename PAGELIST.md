@@ -225,3 +225,8 @@ The pages listed here have references to other sites that will be added in the f
   - http://thefrappening.so/
   - http://topnudemalecelebs.com/
   - http://www.pornhegemon.com/
+  - porn300.name
+  - www.pornorama.com
+  - hot-sex-tube.com
+  - www.nastyvideotube.com
+  - www.psmhelp.com
