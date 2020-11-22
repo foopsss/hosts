@@ -230,3 +230,9 @@ The pages listed here have references to other sites that will be added in the f
   - hot-sex-tube.com
   - www.nastyvideotube.com
   - www.psmhelp.com
+  - http://www.epicpornvideos.com
+  - https://xxxfreepornclip.com/
+  - https://www.allpornvids.com/
+  - http://sexhqvideo.com
+  - niceporn.tv
+  - 4ksex.me
