@@ -236,3 +236,6 @@ The pages listed here have references to other sites that will be added in the f
   - http://sexhqvideo.com
   - niceporn.tv
   - 4ksex.me
+  - https://porzo.tv/
+  - http://www.tube3.com/
+  - fapvid.net
