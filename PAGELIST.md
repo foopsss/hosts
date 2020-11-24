@@ -239,3 +239,8 @@ The pages listed here have references to other sites that will be added in the f
   - https://porzo.tv/
   - http://www.tube3.com/
   - fapvid.net
+  - oxotube.com
+  - http://www.bestandfree.com
+  - http://bollywoodnudeshd.com
+  - www.tuboff.com
+  - www.gammastats.com
