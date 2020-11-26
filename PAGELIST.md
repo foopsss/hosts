@@ -244,3 +244,13 @@ The pages listed here have references to other sites that will be added in the f
   - http://bollywoodnudeshd.com
   - www.tuboff.com
   - www.gammastats.com
+  - tube4world.com
+  - http://www.youfreeporn.org/
+  - http://8kpornvids.com
+  - www.foxporns.com
+  - http://www.beegnow.com/
+  - http://tubemovs8k.com
+  - http://voyeurtubefree.com
+  - russian-granny.com
+  - fapxl.com
+  - www.orangepornvideos.net
