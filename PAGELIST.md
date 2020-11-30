@@ -254,3 +254,5 @@ The pages listed here have references to other sites that will be added in the f
   - russian-granny.com
   - fapxl.com
   - www.orangepornvideos.net
+  - www.tacamateurs.com
+  - www.qporno.xxx/webs/
