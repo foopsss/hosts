@@ -21,8 +21,6 @@
 # [Ad Providers and Networks]
 # [Fake Dating/Webcam Sites]
 
-# NOTE: Continue checking from line N° 1403
-
 127.0.0.1  localhost
 ::1  localhost
 
