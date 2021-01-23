@@ -1,4 +1,4 @@
-#Made to block some miscellaneous sites I want to.
+# Made to block some miscellaneous sites I want to.
 
 127.0.0.1  localhost
 ::1  localhost
