@@ -1,13 +1,33 @@
-# Made to block some miscellaneous sites I want to.
+# Made to block some miscellaneous sites I want to. Mostly ad servers or servers I don't want my devices to connect to.
 
 127.0.0.1  localhost
 ::1  localhost
 
+# 360 Security addresses
 127.0.0.1 *.360safe.com
 127.0.0.1 *.cloud.360safe.com
 127.0.0.1 *.360.cn
 127.0.0.1 360.cn
 127.0.0.1 360safe.com
+
+# Clean Master addresses.
 127.0.0.1 samcmsec.ksmobile.com
 127.0.0.1 samcm.ksmobile.com
 127.0.0.1 kaotic.com
+
+# Samsung apps addresses.
+127.0.0.1 vas.samsungapps.com
+127.0.0.1 img.samsungapps.com
+127.0.0.1 capi.samsungcloud.com
+127.0.0.1 api.glb.samsung-gamelauncher.com
+127.0.0.1 gamelauncher.frvr.com
+127.0.0.1 gamelauncher.api.frvr.com
+127.0.0.1 play.frvr.com
+127.0.0.1 cdn.frvr.com
+
+# Google addresses.
+127.0.0.1 app-measurement.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 www.googletagmanager.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 static.doubleclick.net
