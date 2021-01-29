@@ -5249,6 +5249,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 www.lushstories.com
 127.0.0.1 storiesonline.net
 127.0.0.1 www.adult-fanfiction.org
+127.0.0.1 www2.adult-fanfiction.org
 127.0.0.1 anime.adult-fanfiction.org
 127.0.0.1 books.adult-fanfiction.org
 127.0.0.1 bleach.adult-fanfiction.org
@@ -5952,7 +5953,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 www.fuckgamer.com
 
 # [Social Networks/Wikimedia]
-# Sadly, I can't do much to manage all the sexual content available in these pages so the safest bet is to block them entirely.
+# Known social networks are also blocked as I can't manage the sexual content available in these pages.
 127.0.0.1 www.instagram.com
 127.0.0.1 twitter.com
 127.0.0.1 mobile.twitter.com
@@ -5960,27 +5961,28 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 commons.wikimedia.org
 127.0.0.1 commons.m.wikimedia.org
 127.0.0.1 upload.wikimedia.org
+127.0.0.1 sharesome.com
 
 # [Forums]
 # Includes sites like 4Chan, Reddit and some other porn forums, boards, etc out there.
 127.0.0.1 www.phun.org
 127.0.0.1 kikdirty.com
-127.0.0.1 www.intporn.com/forums
-127.0.0.1 www.pornbb.org/forum
+127.0.0.1 www.intporn.com
+127.0.0.1 www.pornbb.org
 127.0.0.1 www.redditlist.com
 127.0.0.1 www.4chan.org
 127.0.0.1 www.u18chan.com
 127.0.0.1 420chan.org
 127.0.0.1 bbw-chan.nl
-127.0.0.1 8kun.top/index.html
+127.0.0.1 8kun.top
 127.0.0.1 7chan.org
 127.0.0.1 pregchan.com
 127.0.0.1 www.archiveofsins.com
 127.0.0.1 www.ichan.net
 127.0.0.1 www.thebarchive.com
-127.0.0.1 smplace.com/forum
-127.0.0.1 toplist.raidrush.ws/dir/erotic
-127.0.0.1 85.17.187.83/saff
+127.0.0.1 smplace.com
+127.0.0.1 toplist.raidrush.ws
+127.0.0.1 85.17.187.83
 127.0.0.1 forums.sexyandfunny.com
 127.0.0.1 pornsavant.com
 127.0.0.1 www.fritchy.com
@@ -6011,7 +6013,6 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 forum.lushstories.com
 127.0.0.1 mcgarden.org
 127.0.0.1 www.mcforum.net
-127.0.0.1 www2.adult-fanfiction.org/forum/
 127.0.0.1 forums.sexyandfunny.com
 127.0.0.1 forum.hentaicloud.com
 127.0.0.1 forums.e-hentai.org
@@ -6023,7 +6024,6 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 forum.lewdweb.net
 127.0.0.1 syberpussy.com
 127.0.0.1 forum.secretfriends.com
-127.0.0.1 sharesome.com/topic/creampie/
 127.0.0.1 forum.boyfriendtv.com
 127.0.0.1 www.woodmanforum.com
 127.0.0.1 taohuazu8.com
@@ -6037,6 +6037,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 m.gfy.com
 127.0.0.1 www.tt1069.com
 127.0.0.1 toploli.com
+127.0.0.1 pornolab.net
 
 # [Multimedia]
 # Includes gallery sites and some standalone GIFs and photos.
@@ -6054,8 +6055,8 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 youngpics.xyz
 127.0.0.1 cute-little.ga
 127.0.0.1 salvamontgorj.eu
-127.0.0.1 www.gifdeliverynetwork.com/biodegradablemellowape
-127.0.0.1 photobucket.com/videos/creampie
+127.0.0.1 www.gifdeliverynetwork.com
+127.0.0.1 photobucket.com
 127.0.0.1 www.coedcherry.com
 127.0.0.1 www.curvyerotic.com
 127.0.0.1 nnteens.com
@@ -6109,7 +6110,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 www.youpeg.com
 127.0.0.1 3devilmadness.com
 127.0.0.1 bulkjerk.com
-127.0.0.1 sites.adult-empire.com/10463/?rs=1
+127.0.0.1 www.adult-empire.com
 127.0.0.1 vermangasporno.com
 127.0.0.1 vercomicsporno.com
 127.0.0.1 www.bnude.com
@@ -6135,7 +6136,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 babesunivers.com
 127.0.0.1 www.babesunivers.com
 127.0.0.1 www.tumbex.com
-127.0.0.1 www.deviantart.com/tag/creampie
+127.0.0.1 www.deviantart.com
 127.0.0.1 www.iftvmilfs.com
 127.0.0.1 galleries-pornstar.com
 127.0.0.1 www.pornpictureshq.com
@@ -6206,7 +6207,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 voyeurmonkeypinned.com
 127.0.0.1 www.voyeurmonkey.net
 127.0.0.1 www.nakednews.com
-127.0.0.1 img.mizugi.pro/tpcache/tpics.html?a303
+127.0.0.1 img.mizugi.pro
 127.0.0.1 jpg4.biz
 127.0.0.1 www.bravoerotica.com
 127.0.0.1 m.bravoerotica.com
@@ -6310,15 +6311,13 @@ l27.0.0.1 www.kickass.com
 # [File Hosting and Downloading Sites]
 127.0.0.1 www.pornhost.com
 127.0.0.1 fetish-island.com
-127.0.0.1 rarbggo.org/torrents.php?category=4
-127.0.0.1 thepiratebay.cx/home
-127.0.0.1 thepirate-bay.org/home116
-127.0.0.1 thepiratebays.com.se/en
+127.0.0.1 rarbggo.org
+127.0.0.1 thepiratebay.cx
+127.0.0.1 thepirate-bay.org
+127.0.0.1 thepiratebays.com.se
 127.0.0.1 www.tpbproxypirate.com
 127.0.0.1 www.pirateproxy.space
-127.0.0.1 www.pornleech.is/?z
 127.0.0.1 pornbay.org
-127.0.0.1 pornolab.net/forum/index.php
 127.0.0.1 onejav.com
 127.0.0.1 www.javjunkies.com
 127.0.0.1 www.tokyotosho.info
