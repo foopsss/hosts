@@ -24,6 +24,8 @@
 127.0.0.1 gamelauncher.api.frvr.com
 127.0.0.1 play.frvr.com
 127.0.0.1 cdn.frvr.com
+127.0.0.1 adconsent.samsungrs.com
+127.0.0.1 auth2.samsungosp.com
 
 # Google addresses.
 127.0.0.1 app-measurement.com
