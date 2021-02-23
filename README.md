@@ -2,9 +2,12 @@
 
 I store here two hosts files, being one I made for blocking porn sites the one I spend the most time working on. They can be used on Windows, Android, Linux and macOS.
 
-    A little bit of info: I did this for myself mainly, to deal with a slight
-    porn addiction but I realize it can also be useful for someone else
-    like a parent trying to avoid its children from watching porn, so I decided to upload it here.
+    A little bit of info about hosts-porn: I did it for myself mainly, to deal with a slight porn
+    porn addiction but I realized it can also be useful for someone else, like a parent trying to
+    protect his children from watching porn, so I decided to upload it here.
+    
+    hosts-misc has some ad server addresses and miscelaneous domains from the likes of Samsung, 
+    Google, 360 and more that I like to block on my Samsung devices.
     
 # Installation
 
