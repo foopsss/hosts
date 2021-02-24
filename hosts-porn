@@ -5019,6 +5019,10 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 www.pornobengala.com
 127.0.0.1 www.videosporno.com.br
 127.0.0.1 vndevtop.com
+127.0.0.1 javfree.la
+127.0.0.1 javfree.sh
+127.0.0.1 player.javfree.sh
+127.0.0.1 javpro.cc
 
 # [Content Servers]
 127.0.0.1 static-ma-ht.project1content.com
@@ -5109,6 +5113,9 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 static-l3.xnxx-cdn.com
 127.0.0.1 img-l3.xnxx-cdn.com
 127.0.0.1 img-hw.xnxx-cdn.com
+127.0.0.1 cdn.javfree.la
+127.0.0.1 cdn.javfree.sh
+127.0.0.1 cdn.javpro.cc
 
 # [Sites to work on later]
 # I add these sites here until I can completely review them so they are at least blocked meanwhile.
@@ -7391,6 +7398,7 @@ l27.0.0.1 www.kickass.com
 127.0.0.1 models.yoshikawasakixxx.com
 127.0.0.1 members.thehardcorenetwork.com
 127.0.0.1 www.zoxv.com
+127.0.0.1 affiliate.r18.com
 
 # [Fake Dating/Webcam Sites]
 # This kind of sites may contain viruses so blocking them is a good idea.
