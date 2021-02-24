@@ -1,4 +1,4 @@
-# My Hosts File
+# My Hosts Files
 
 I store here two hosts files, being one I made for blocking porn sites the one I spend the most time working on. They can be used on Windows, Android, Linux and macOS.
 
